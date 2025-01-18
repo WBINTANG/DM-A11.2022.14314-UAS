@@ -1,0 +1,1445 @@
+kemendagri_kode_provinsi,kemendagri_nama_provinsi,kemendagri_kode_kabupatenkota,kemendagri_nama_kabupatenkota,kemendagri_kode_kecamatan,kemendagri_nama_kecamatan,nama_puskesmas,tahun,pukesmas_melaksanakan_kegiatan_deteksi_dini,perempuan_usia_30_50_tahun,jenis_deteksi_dini_kanker_leher_rahim_dan_kanker_payudara,jumlah_deteksi_dini,satuan
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.01,Kecamatan Linge,LINGE,2021,1,1048,pemeriksaan leher rahim dan payudara,4,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.18,Kecamatan Atu Lintang,ATU LINTANG,2021,1,1004,pemeriksaan leher rahim dan payudara,467,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.19,Kecamatan Jagong Jeget,JAGONG,2021,1,1765,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.08,Kecamatan Bintang,BINTANG,2021,1,1535,pemeriksaan leher rahim dan payudara,144,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.17,Kecamatan Laut Tawar,LUT TAWAR,2021,1,5743,pemeriksaan leher rahim dan payudara,15,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.11,Kecamatan Kebayakan,KEBAYAKAN,2021,1,2603,pemeriksaan leher rahim dan payudara,62,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.07,Kecamatan Pegasing,PEGASING,2021,1,3275,pemeriksaan leher rahim dan payudara,126,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.20,"Kecamatan Bies,",BIES,2021,1,1175,pemeriksaan leher rahim dan payudara,25,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.03,Kecamatan Bebesen,BEBESEN,2021,1,6491,pemeriksaan leher rahim dan payudara,1,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.12,Kecamatan Kute Panang,KUTE PANANG,2021,1,1403,pemeriksaan leher rahim dan payudara,82,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.02,Kecamatan Silih Nara,SILIH NARA,2021,1,4741,pemeriksaan leher rahim dan payudara,447,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.10,Kecamatan Ketol,KETOL,2021,1,1473,pemeriksaan leher rahim dan payudara,281,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.13,Kecamatan Celala,CELALA,2021,1,1351,pemeriksaan leher rahim dan payudara,31,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.21,Kecamatan Rusip Antara,RUSIP,2021,1,1011,pemeriksaan leher rahim dan payudara,14,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.21,Kecamatan Rusip Antara,PAMAR,2021,1,322,pemeriksaan leher rahim dan payudara,5,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.01,Kecamatan Linge,KETAPANG NUSANTARA,2021,1,592,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.10,Kecamatan Ketol,KEKUYANG,2021,1,684,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.02,"Kecamatan Kutapanjang,",KUTA PANJANG,2021,1,1454,pemeriksaan leher rahim dan payudara,75,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.09,Kecamatan Blangjerango,BLANGJERANGO,2021,1,1137,pemeriksaan leher rahim dan payudara,70,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.01,Kecamatan Blangkejeren,BLANGKEJEREN,2021,1,4830,pemeriksaan leher rahim dan payudara,84,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.07,Kecamatan Puteri Betung,GUMPANG,2021,1,1417,pemeriksaan leher rahim dan payudara,91,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.08,Kecamatan Dabun Gelang,DABUN GELANG,2021,1,1048,pemeriksaan leher rahim dan payudara,61,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.06,"Kecamatan Blangpegayon,",CINTA MAJU,2021,1,993,pemeriksaan leher rahim dan payudara,55,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.05,Kecamatan Pining,PINTU RIME,2021,1,142,pemeriksaan leher rahim dan payudara,63,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.05,Kecamatan Pining,PINING,2021,1,291,pemeriksaan leher rahim dan payudara,61,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.03,Kecamatan Rikit Gaib,RIKIT GAIB,2021,1,701,pemeriksaan leher rahim dan payudara,57,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.11,Kecamatan Pantan Cuaca,KENYARAN,2021,1,671,pemeriksaan leher rahim dan payudara,55,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.04,Kecamatan Terangun,TERANGUN,2021,1,1478,pemeriksaan leher rahim dan payudara,69,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.10,Kecamatan Teripe Jaya,REREBE,2021,1,896,pemeriksaan leher rahim dan payudara,53,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.03,Kecamatan Manggeng,MANGGENG,2021,0,5499,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.09,Kecamatan Lembah Sabil,LEMBAH SABIL,2021,0,2613,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.02,Kecamatan Tangan-Tangan,TANGAN-TANGAN,2021,0,1534,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.02,Kecamatan Tangan-Tangan,BINEH KRUENG,2021,0,1056,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.07,Kecamatan Setia,LHANG,2021,0,2473,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.01,Kecamatan Blang Pidie,BLANG PIDIE,2021,0,4344,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.08,"Kecamatan Jeumpa,",ALUE SUNGAI PINANG,2021,0,2176,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.04,Kecamatan Susoh,SUSOH,2021,0,8256,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.04,Kecamatan Susoh,SANGKALAN,2021,0,1511,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.05,Kecamatan Kuala Batee,KUALA BATEE,2021,0,7152,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.05,Kecamatan Kuala Batee,ALUE PISANG,2021,0,681,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.06,Kecamatan Babah Rot,BABAHROT,2021,0,2418,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.06,Kecamatan Babah Rot,IE MIRAH,2021,0,1062,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.01,Kecamatan Langsa Timur,UPT LANGSA TIMUR,2021,1,2200,pemeriksaan leher rahim dan payudara,210,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.04,Kecamatan Langsa Lama,UPT LANGSA LAMA,2021,1,4379,pemeriksaan leher rahim dan payudara,375,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.02,Kecamatan Langsa Barat,UPT LANGSA BARAT,2021,1,5184,pemeriksaan leher rahim dan payudara,401,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.05,"Kecamatan Langsa Baro,",UPT LANGSA BARO,2021,1,7310,pemeriksaan leher rahim dan payudara,586,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.03,Kecamatan Langsa Kota,UPT LANGSA KOTA,2021,1,5600,pemeriksaan leher rahim dan payudara,481,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,ALUE BILIE,2021,0,2358,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,SUKA MULYA,2021,0,2760,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,LUENG KEBEU JAGAD,2021,0,1978,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,ALUE RAMBOT,2021,0,3106,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.01,Kecamatan Kuala,UJONG FATIHAH,2021,0,5513,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.07,Kecamatan Kuala Pesisir,PADANG PANYANG,2021,0,3011,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.07,Kecamatan Kuala Pesisir,PADANG RUBEK,2021,0,826,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.08,Kecamatan Tadu Raya,SIMPANG JAYA,2021,0,2506,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.08,Kecamatan Tadu Raya,KUALA TADU,2021,0,673,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.04,Kecamatan Beutong,BEUTONG,2021,0,2515,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.04,Kecamatan Beutong,BEUTONG ATEUH,2021,0,351,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.02,Kecamatan Seunagan,JEURAM,2021,0,4599,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.02,Kecamatan Seunagan,COT KUTA,2021,0,1881,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.03,Kecamatan Seunagan Timur,UTEUN PULO,2021,0,3463,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.03,Kecamatan Meuraxa,MEURAXA,2021,1,2941,pemeriksaan leher rahim dan payudara,122,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.08,Kecamatan Jaya Baru,JAYA BARU,2021,1,3771,pemeriksaan leher rahim dan payudara,24,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.07,Kecamatan Banda Raya,BANDA RAYA,2021,1,4060,pemeriksaan leher rahim dan payudara,40,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.01,Kecamatan Baiturrahman,BAITURRAHMAN,2021,1,5852,pemeriksaan leher rahim dan payudara,78,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.05,Kecamatan Lueng Bata,BATOH,2021,1,3923,pemeriksaan leher rahim dan payudara,12,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.02,Kecamatan Kuta Alam,KUTA ALAM,2021,1,4103,pemeriksaan leher rahim dan payudara,26,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.02,Kecamatan Kuta Alam,LAMPULO,2021,1,3247,pemeriksaan leher rahim dan payudara,13,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.06,Kecamatan Kuta Raja,LAMPASEH KOTA,2021,1,1617,pemeriksaan leher rahim dan payudara,33,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.04,Kecamatan Syiah Kuala,KOPELMA DARUSSALAM,2021,1,1713,pemeriksaan leher rahim dan payudara,21,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.04,Kecamatan Syiah Kuala,JEULINGKE,2021,1,1961,pemeriksaan leher rahim dan payudara,25,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.09,Kecamatan Ulee Kareng,ULEE KARENG,2021,1,1821,pemeriksaan leher rahim dan payudara,98,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.07,Kecamatan Tamiang Hulu,TAMIANG HULU,2021,1,3388,pemeriksaan leher rahim dan payudara,7,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.10,Kecamatan Bandar Pusaka,BANDAR PUSAKA,2021,1,2254,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.06,Kecamatan Kejuruan Muda,KEJURUAN MUDA,2021,1,6254,pemeriksaan leher rahim dan payudara,32,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.11,Kecamatan Tenggulun,SIMPANG KIRI,2021,0,3134,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.08,Kecamatan Rantau,RANTAU,2021,1,4655,pemeriksaan leher rahim dan payudara,14,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.08,Kecamatan Rantau,SAPTA JAYA,2021,1,1850,pemeriksaan leher rahim dan payudara,17,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.05,Kecamatan Kota Kualasinpang,KUALA SIMPANG,2021,0,3573,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.04,Kecamatan Seruway,SERUWAY,2021,1,4700,pemeriksaan leher rahim dan payudara,70,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.02,Kecamatan Bendahara,SUNGAI IYU,2021,0,2369,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.02,Kecamatan Bendahara,BENDAHARA,2021,1,1308,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.09,Kecamatan Banda Mulia,BANDA MULIA,2021,0,2075,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.03,Kecamatan Karang Baru,KARANG BARU,2021,0,4938,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.12,Kecamatan Sekerak,SEKERAK,2021,1,1177,pemeriksaan leher rahim dan payudara,5,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.01,Kecamatan Manyak Payed,MANYAK PAYED,2021,0,5700,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.03,Kecamatan Karang Baru,SELELEH,2021,0,2191,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.05,Kecamatan Geumpang,GEUMPANG,2021,0,916,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.27,Kecamatan Mane,MANE,2021,0,1235,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.06,Kecamatan Geulumpang  Tiga,GLUMPANG TIGA,2021,0,1205,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.06,Kecamatan Geulumpang  Tiga,TEUPIEN RAYA,2021,0,1605,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.29,Kecamatan Glumpang  Baro,GLUMPANG BARO,2021,0,1648,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,MUTIARA,2021,0,2212,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,MUTIARA BARAT,2021,0,3050,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,UJONG RIMBA,2021,0,2912,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.21,Kecamatan Tiro/Truseb,TIRO,2021,0,1174,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.19,Kecamatan Tangse,TANGSE,2021,0,3817,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.22,Kecamatan Keumala,TITEUE,2021,0,975,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.22,Kecamatan Keumala,KEUMALA,2021,0,1468,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.17,Kecamatan Sakti,SAKTI,2021,0,3091,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.11,Kecamatan Mila,MILA,2021,0,1360,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.14,Kecamatan Padang Tiji,PADANG TIJI,2021,0,3180,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.04,Kecamatan Delima,DELIMA,2021,0,1854,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.04,Kecamatan Delima,REUBEE,2021,0,1262,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.25,Kecamatan Grong-grong,GRONG-GRONG,2021,0,1030,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.07,Kecamatan Indra Jaya,INDRAJAYA,2021,0,3470,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.15,Kecamatan Peukan Baro,PEUKAN BARO,2021,0,3031,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.08,Kecamatan Kembang Tanjong,KEMBANG TANJONG,2021,0,3160,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.18,Kecamatan Simpang Tiga,SIMPANG TIGA,2021,0,3387,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.09,Kecamatan Kota Sigli,KOTA SIGLI,2021,0,3040,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.16,Kecamatan Pidie,PIDIE,2021,0,6554,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.03,Kecamatan Batee,BATEE,2021,0,2923,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.12,Kecamatan Muara Tiga,MUARA TIGA,2021,0,2798,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.09,"Kecamatan Trumon,",TRUMON,2021,1,898,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.18,Kecamatan Trumon Tengah,LADANG RIMBA,2021,1,1041,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.16,Kecamatan Trumon Timur,KRUENG LUAS,2021,1,1667,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.01,Kecamatan Bakongan,BAKONGAN,2021,1,1098,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.17,Kecamatan Kota Bahagia,BUKIT GADENG,2021,1,1263,pemeriksaan leher rahim dan payudara,1,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.15,Kecamatan Bakongan Timur,SEUBADEH,2021,1,1102,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.03,Kecamatan Kluet Selatan,KLUET SELATAN,2021,1,2437,pemeriksaan leher rahim dan payudara,6,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.14,Kecamatan Kluet Timur,DURIAN KAWAN,2021,1,1191,pemeriksaan leher rahim dan payudara,38,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.14,Kecamatan Kluet Timur,KLUET TIMUR,2021,1,1273,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KLUET UTARA,2021,1,2154,pemeriksaan leher rahim dan payudara,10,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KAMPONG PAYA,2021,1,1400,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KUALA BA'U,2021,1,1046,pemeriksaan leher rahim dan payudara,30,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.10,Kecamatan Pasi Raja,LADANG TUHA,2021,1,1644,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.13,Kecamatan Kluet Tengah,MANGGAMAT,2021,1,1164,pemeriksaan leher rahim dan payudara,13,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.08,Kecamatan Tapaktuan,TAPAKTUAN,2021,1,1934,pemeriksaan leher rahim dan payudara,638,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.08,Kecamatan Tapaktuan,LHOK BENGKUANG,2021,1,1943,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.06,Kecamatan Samadua,SAMADUA,2021,1,2618,pemeriksaan leher rahim dan payudara,120,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.07,Kecamatan Sawang,SAWANG,2021,1,2643,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.05,Kecamatan Meukek,MEUKEK,2021,1,1873,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.05,Kecamatan Meukek,DRIEN JALO,2021,1,1357,pemeriksaan leher rahim dan payudara,18,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.04,Kecamatan Labuhan Haji,LABUHAN HAJI,2021,1,1706,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.11,"Kecamatan Labuhan Haji Timur,",PEULUMAT,2021,1,2221,pemeriksaan leher rahim dan payudara,4,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.12,Kecamatan Labuhan Haji Barat,BLANGKEJEREN,2021,1,2816,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.10,Kecamatan Pasi Raja,UJONG PADANG RASIAN,2021,1,1427,pemeriksaan leher rahim dan payudara,4,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.01,Kecamatan Meureudu,MEUREUDU,2021,0,2991,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.05,Kecamatan Meurah Dua,MEURAH DUA,2021,0,1775,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,BANDAR DUA,2021,0,1604,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,KUTA KRUENG,2021,0,1085,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,BLANG KUTA,2021,0,964,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.03,Kecamatan Jangka Buaya,JANGKA BUYA,2021,0,2154,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.02,Kecamatan Ulim,ULIM,2021,0,2673,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.08,Kecamatan Trienggadeng,TRIENGGADENG,2021,0,2356,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.07,Kecamatan Panteraja,PANTE RAJA,2021,0,1543,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,BANDAR BARU,2021,0,3214,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,CUBO,2021,0,836,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,SIMPANG 4 NYONG,2021,0,1892,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.05,Kecamatan Serbajadi,LOKOP,2021,0,1001,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.20,Kecamatan Simpang Jernih,SIMPANG JERNIH,2021,0,596,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.24,Kecamatan Peunaron,PEUNARON,2021,0,1464,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.04,Kecamatan Birem Bayeun,BIREM BAYEUN,2021,0,4385,pemeriksaan leher rahim dan payudara,15,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.08,Kecamatan Rantau Selamat,RANTAU SELAMAT,2021,0,1986,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.19,Kecamatan Sungai Raya,SUNGAI RAYA,2021,0,1882,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.07,Kecamatan Peureulak,PEUREULAK KOTA,2021,0,5708,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.17,Kecamatan Peureulak  Timur,PEUREULAK TIMUR,2021,0,2196,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.18,Kecamatan Peureulak Barat,PEUREULAK BARAT,2021,0,2397,pemeriksaan leher rahim dan payudara,12,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.10,Kecamatan Rantau Peureulak,RANTO PEUREULAK,2021,0,3840,pemeriksaan leher rahim dan payudara,15,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.03,Kecamatan Idi Rayeuk,IDI RAYEUK,2021,0,5694,pemeriksaan leher rahim dan payudara,21,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.16,Kecamatan Peudawa,PEUDAWA,2021,0,1802,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.15,Kecamatan Banda Alam,KEUDE GEUROBAK,2021,0,1303,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.14,Kecamatan Idi Tunong,IDI TUNONG,2021,0,1539,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.21,Kecamatan Darul Ihsan,DARUL IHSAN,2021,0,962,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.23,Kecamatan Idi Timur,IDI TIMUR,2021,0,929,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.01,Kecamatan Darul Aman,DARUL AMAN,2021,0,2970,pemeriksaan leher rahim dan payudara,4,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.06,Kecamatan Nurussalam,NURUSSALAM,2021,0,2629,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.22,Kecamatan Darul Falah,DARUL FALAH,2021,0,504,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.02,Kecamatan Julok,JULOK,2021,0,4078,pemeriksaan leher rahim dan payudara,15,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.13,Kecamatan Indra Makmu,ALUE IE MIRAH,2021,0,1533,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.13,Kecamatan Indra Makmu,PERKEBUNAN INTI ALUE IE ITAM,2021,0,1201,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.11,Kecamatan Pante Bidari,MATANG PUDENG,2021,0,1591,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.11,Kecamatan Pante Bidari,PANTE BIDARI,2021,0,2137,pemeriksaan leher rahim dan payudara,8,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.09,Kecamatan Simpang Ulim,SIMPANG ULIM,2021,0,3098,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.12,Kecamatan Madat,MADAT,2021,0,4016,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.07,Kecamatan Peureulak,LEUBOK PEMPENG,2021,0,1188,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.07,Kecamatan Timang Gajah,LAMPAHAN,2021,1,3032,pemeriksaan leher rahim dan payudara,214,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.07,Kecamatan Timang Gajah,RONGA RONGA,2021,1,1404,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.01,Kecamatan Pintu Rime Gayo,BLANG RAKAL,2021,1,1028,pemeriksaan leher rahim dan payudara,1,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.01,Kecamatan Pintu Rime Gayo,SINGAH MULO,2021,1,1069,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.05,Kecamatan Bukit,SIMPANG TIGA,2021,1,4401,pemeriksaan leher rahim dan payudara,80,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.06,Kecamatan Wih Pesam,PANTE RAYA,2021,1,2972,pemeriksaan leher rahim dan payudara,28,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.06,Kecamatan Wih Pesam,SIMPANG TERITIT,2021,0,1144,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.04,Kecamatan Bandar,BANDAR,2021,1,3794,pemeriksaan leher rahim dan payudara,89,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.08,Kecamatan Bener Kelipah,BENER KELIPAH,2021,1,730,pemeriksaan leher rahim dan payudara,40,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.03,Kecamatan Syiah Utama,SAMAR KILANG,2021,0,226,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.09,Kecamatan Mesidah,MESIDAH,2021,0,551,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.02,Kecamatan Permata,BUNTUL KEUMUMU,2021,1,1706,pemeriksaan leher rahim dan payudara,182,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.02,Kecamatan Permata,RAMUNG ,2021,0,1276,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.01,Kecamatan Simpang Kiri,SIMPANG KIRI,2021,0,6879,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.02,Kecamatan Penanggalan,PENANGGALAN,2021,0,2135,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.03,Kecamatan Rundeng,RUNDING,2021,0,1599,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.04,Kecamatan Sultan Daulat,SULTAN DAULAT,2021,0,780,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.05,Kecamatan Longkib,LONGKIB,2021,0,3380,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.02,Kecamatan Penanggalan,JONTOR,2021,0,1365,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.01,Kecamatan Simpang Kiri,BAKAL BUAH,2021,0,3985,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.04,Kecamatan Sultan Daulat,BATU-BATU,2021,0,614,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.01,Kecamatan Johan Pahlawan,JOHAN PAHLAWAN,2021,1,4391,pemeriksaan leher rahim dan payudara,1756,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.01,Kecamatan Johan Pahlawan,SUAK RIBEE,2021,1,1317,pemeriksaan leher rahim dan payudara,393,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.05,Kecamatan Samatiga,COT SEUMEREUNG,2021,1,2406,pemeriksaan leher rahim dan payudara,962,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.06,Kecamatan Bubon,KUTA PADANG LAYUNG,2021,1,858,pemeriksaan leher rahim dan payudara,343,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.07,Kecamatan Arongan Lambalek,DRIEN RAMPAK,2021,1,1331,pemeriksaan leher rahim dan payudara,532,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.04,Kecamatan Woyla,KUALA BHEE,2021,1,1591,pemeriksaan leher rahim dan payudara,636,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.10,Kecamatan Woyla Barat,PASIE MALI (WOYLA BARAT),2021,1,311,pemeriksaan leher rahim dan payudara,124,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.11,Kecamatan Woyla Timur,TANGKEH,2021,1,544,pemeriksaan leher rahim dan payudara,217,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.02,Kecamatan Kaway XVI,PEUREUMEU ,2021,1,2438,pemeriksaan leher rahim dan payudara,975,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.09,Kecamatan Meureubo,MEUREUBO,2021,1,3280,pemeriksaan leher rahim dan payudara,1312,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.08,Kecamatan Pante Ceureumen,PANTE CEUREUMEN,2021,1,1273,pemeriksaan leher rahim dan payudara,509,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.12,Kecamatan Panton Reu,MENTULANG,2021,1,717,pemeriksaan leher rahim dan payudara,286,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.03,Kecamatan Sungai Mas,KAJEUNG,2021,1,234,pemeriksaan leher rahim dan payudara,93,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.15,Kecamatan Sawang,SAWANG,2021,1,2889,pemeriksaan leher rahim dan payudara,63,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.15,Kecamatan Sawang,BABAH BULOH,2021,1,2635,pemeriksaan leher rahim dan payudara,57,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.16,Kecamatan Nisam,NISAM,2021,1,2785,pemeriksaan leher rahim dan payudara,65,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.26,Kecamatan Banda Baro,BANDA BARO,2021,1,1139,pemeriksaan leher rahim dan payudara,20,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.03,Kecamatan Kuta Makmur,KUTA MAKMUR,2021,1,3749,pemeriksaan leher rahim dan payudara,64,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.22,Kecamatan Simpang Kramat,SIMPANG KRAMAT,2021,1,1370,pemeriksaan leher rahim dan payudara,68,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.11,Kecamatan Syamtalira Bayu,SYAMTALIRA BAYU,2021,1,3143,pemeriksaan leher rahim dan payudara,15,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.11,Kecamatan Syamtalira Bayu,NISAM ANTARA,2021,1,1904,pemeriksaan leher rahim dan payudara,89,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.25,Kecamatan Geuredong Pase,GEUREUDONG PASE,2021,1,771,pemeriksaan leher rahim dan payudara,11,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.07,Kecamatan Meurah Mulia,MEURAH MULIA,2021,1,3002,pemeriksaan leher rahim dan payudara,30,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.05,Kecamatan Matangkuli,MATANGKULI,2021,1,2664,pemeriksaan leher rahim dan payudara,12,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.20,Kecamatan Paya Bakong,PAYA BAKONG,2021,1,2184,pemeriksaan leher rahim dan payudara,85,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.24,Kecamatan Pirak Timur,PIRAK TIMU,2021,1,1243,pemeriksaan leher rahim dan payudara,15,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.17,Kecamatan Cot Girek,COT GIREK,2021,1,2829,pemeriksaan leher rahim dan payudara,52,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.14,Kecamatan T. Jambo Aye,TANAH JAMBO AYE,2021,1,4799,pemeriksaan leher rahim dan payudara,80,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.14,Kecamatan T. Jambo Aye,LHOK BEURINGEN,2021,1,1406,pemeriksaan leher rahim dan payudara,18,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.18,Kecamatan Langkahan,LANGKAHAN,2021,1,2036,pemeriksaan leher rahim dan payudara,35,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.18,Kecamatan Langkahan,SIMPANG TIGA,2021,1,1126,pemeriksaan leher rahim dan payudara,12,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.09,Kecamatan Seunuddon,SEUNUDON,2021,1,2399,pemeriksaan leher rahim dan payudara,30,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.09,Kecamatan Seunuddon,BLANG GEULUMPANG,2021,1,1242,pemeriksaan leher rahim dan payudara,10,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.01,Kecamatan Baktiya,BAKTIYA,2021,1,5302,pemeriksaan leher rahim dan payudara,27,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.19,Kecamatan Baktiya Barat,SAMPOINIET,2021,1,2666,pemeriksaan leher rahim dan payudara,4,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.04,Kecamatan Lhoksukon,LHOKSUKON,2021,1,4722,pemeriksaan leher rahim dan payudara,7,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.04,Kecamatan Lhoksukon,BUKET HAGU,2021,1,2255,pemeriksaan leher rahim dan payudara,32,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.12,Kecamatan Tanah Luas,TANAH LUAS,2021,1,3577,pemeriksaan leher rahim dan payudara,30,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.21,Kecamatan Nibong,NIBONG,2021,1,1543,pemeriksaan leher rahim dan payudara,12,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.08,Kecamatan Samudera,SAMUDERA,2021,1,3813,pemeriksaan leher rahim dan payudara,100,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.10,Kecamatan Syamtalira Aron,SYAMTALIRA ARON,2021,1,2767,pemeriksaan leher rahim dan payudara,51,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.13,Kecamatan Tanah Pasir,TANAH PASIR,2021,1,1414,pemeriksaan leher rahim dan payudara,14,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.23,Kecamatan Lapang,LAPANG,2021,1,1260,pemeriksaan leher rahim dan payudara,10,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.06,Kecamatan Muara Batu,MUARA BATU,2021,1,3914,pemeriksaan leher rahim dan payudara,28,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.02,Kecamatan Dewantara,DEWANTARA,2021,1,6431,pemeriksaan leher rahim dan payudara,55,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.01,Kecamatan Samalanga,SAMALANGA,2021,0,5108,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.11,Kecamatan Simpang Mamplam,SIMPANG MAMPLAM,2021,0,4607,pemeriksaan leher rahim dan payudara,20,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.08,Kecamatan Pandrah,PANDRAH,2021,0,1403,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.02,Kecamatan Jeunieb,JEUNIEB,2021,0,4118,pemeriksaan leher rahim dan payudara,886,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.12,Kecamatan Peulimbang,PEULIMBANG,2021,0,1858,pemeriksaan leher rahim dan payudara,622,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.03,Kecamatan Peudada,PEUDADA,2021,0,4405,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.09,Kecamatan Juli,JULI ,2021,0,2403,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.09,Kecamatan Juli,JULI-2,2021,0,2958,pemeriksaan leher rahim dan payudara,1790,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.04,Kecamatan Jeumpa,JEUMPA,2021,0,6072,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.13,Kecamatan Kota Juang,KOTA JUANG,2021,0,8403,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.14,Kecamatan Kuala,KUALA ,2021,0,2921,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.10,Kecamatan Jangka,JANGKA,2021,0,4687,pemeriksaan leher rahim dan payudara,2002,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,PEUSANGAN,2021,0,5161,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,PEUSANGAN SELATAN,2021,0,2385,pemeriksaan leher rahim dan payudara,1,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.15,Kecamatan Peusangan Siblah Krueng,PEUSANGAN SIBLAH KRUENG,2021,0,1903,pemeriksaan leher rahim dan payudara,194,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.06,Kecamatan Makmur,MAKMUR,2021,0,2509,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.07,Kecamatan Gandapura,GANDA PURA,2021,0,2748,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.17,Kecamatan Kuta Blang,KUTA BLANG,2021,0,3671,pemeriksaan leher rahim dan payudara,17,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,COT IE JUE,2021,0,3447,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.07,Kecamatan Gandapura,MON KEULAYU,2021,0,990,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,SUKAJAYA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,JABOI,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,COT BA'U,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,SUKAKARYA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,IBOIH,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,PRIA LAOT,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.03,Kecamatan Blang Mangat,BLANG MANGAT,2021,1,2830,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.03,Kecamatan Blang Mangat,BLANG CUT,2021,1,1349,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.01,Kecamatan Muara Dua,MUARA DUA,2021,1,1561,pemeriksaan leher rahim dan payudara,7,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.04,Kecamatan Muara Satu,MUARA SATU,2021,1,6116,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.02,Kecamatan Banda Sakti,BANDA SAKTI,2021,1,10034,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.02,Kecamatan Banda Sakti,MON GEUDONG,2021,1,4088,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.01,Kecamatan Muara Dua,KANDANG,2021,1,2955,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.01,Kecamatan Pulau Banyak,PULAU BANYAK,2021,0,1200,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.16,Kecamatan Pulau Banyak Barat,PULAU BANYAK BARAT,2021,0,813,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.04,Kecamatan Singkil,SINGKIL,2021,0,4986,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.10,Kecamatan Singkil Utara,SINGKIL UTARA,2021,0,2731,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.14,Kecamatan Kuala Baru,KUALA BARU,2021,0,665,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.02,Kecamatan Simpang Kanan,SIMPANG KANAN,2021,0,2995,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.06,Kecamatan Gunung Meriah,GUNUNG MERIAH,2021,0,9378,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.11,Kecamatan Danau Paris,DANAU PARIS,2021,0,2029,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.12,Kecamatan Suro Makmur,SURO,2021,0,2315,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.13,Kecamatan Singkohor,SINGKOHOR,2021,0,1626,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.09,Kecamatan Kota Baharu,KUTA BAHARU,2021,0,1751,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.02,Kecamatan Simpang Kanan,KUTA TINGGI,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.01,Kecamatan Lhoong,LHOONG,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.02,Kecamatan Lhoknga,LHOKNGA,2021,0,1928,pemeriksaan leher rahim dan payudara,38,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.22,Kecamatan Leupung,LEUPUNG,2021,0,739,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.03,Kecamatan Indrapuri,INDRAPURI,2021,0,2461,pemeriksaan leher rahim dan payudara,45,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.03,Kecamatan Indrapuri,LAMPUPOK,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.16,Kecamatan Kota Cot Glie,KUTA COT GLIE,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.16,Kecamatan Kota Cot Glie,IE ALANG,2021,0,329,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.04,Kecamatan Seulimeum,SEULIMEUM,2021,0,2281,pemeriksaan leher rahim dan payudara,58,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.04,Kecamatan Seulimeum,LAMTEUBA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.15,Kecamatan Kota Jantho,KOTA JANTHO,2021,0,1196,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.14,"Kecamatan Lembah Seulawah,",LEMBAH SEULAWAH,2021,0,1910,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.09,Kecamatan Mesjid Raya,MESJID RAYA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.12,Kecamatan Darussalam,DARUSSALAM,2021,0,3961,pemeriksaan leher rahim dan payudara,12,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.20,Kecamatan Baitussalam,BAITUSSALAM,2021,0,3094,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.11,Kecamatan Kuta Baro,KUTA BARO,2021,0,5470,pemeriksaan leher rahim dan payudara,22,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.05,Kecamatan Montasik,MONTASIK,2021,0,2122,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.05,Kecamatan Montasik,PIYEUNG,2021,0,552,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.23,Kecamatan Blang Bintang,BLANG BINTANG,2021,0,1657,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.10,Kecamatan Ingin Jaya,INGIN JAYA,2021,0,5767,pemeriksaan leher rahim dan payudara,22,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.21,"Kecamatan Krueng Barona Jaya,",KRUENG BARONA JAYA,2021,0,2814,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.06,Kecamatan Sukamakmur,SUKAMAKMUR,2021,0,1266,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.17,Kecamatan Kuta Malaka,KUTA MALAKA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.18,Kecamatan Simpang Tiga,SIMPANG TIGA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.07,Kecamatan Darul Imarah,DARUL IMARAH,2021,0,5076,pemeriksaan leher rahim dan payudara,234,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.19,Kecamatan Darul Kamal,DARUL KAMAL,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.08,Kecamatan Peukan Bada,PEUKAN BADA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.08,Kecamatan Peukan Bada,LAMPISANG,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.13,Kecamatan Pulo Aceh,PULO ACEH,2021,0,638,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.01,Kecamatan Teunom,TEUNOM,2021,1,2000,pemeriksaan leher rahim dan payudara,10,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.09,Kecamatan Pasie Raya,PASIE RAYA,2021,1,1043,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.06,Kecamatan Panga,PANGA,2021,1,1333,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.02,Kecamatan Krueng Sabee,KRUENG SABEE,2021,1,1846,pemeriksaan leher rahim dan payudara,17,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.02,Kecamatan Krueng Sabee,CALANG,2021,1,1236,pemeriksaan leher rahim dan payudara,15,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.03,Kecamatan Setia Bhakti,LAGEUN,2021,1,683,pemeriksaan leher rahim dan payudara,9,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.03,Kecamatan Setia Bhakti,PANTE KUYUN,2021,1,760,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.08,Kecamatan Darul Hikmah,PATEK,2021,1,1141,pemeriksaan leher rahim dan payudara,4,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.04,Kecamatan Sampoiniet,LHOK KRUET,2021,1,766,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.04,Kecamatan Sampoiniet,LIGAN,2021,1,488,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.05,Kecamatan Jaya,LAMNO,2021,1,2189,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.07,Kecamatan Indra Jaya,INDRAJAYA,2021,1,1115,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.01,Kecamatan Lawe Alas,NGKERAN,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.11,Kecamatan Babul Rahmah,LAWE SUMUR,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.11,Kecamatan Babul Rahmah,UNING SIGUR-GUR,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.15,Kecamatan Tanoh Alas,TANOH ALAS,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.02,Kecamatan Lawe Sigala-Gala,LAWE SIGALA-GALA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.06,Kecamatan Babul Makmur,LAWE PERBUNGA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.06,Kecamatan Babul Makmur,GURGUR PARDOMUAN,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.10,Kecamatan Semadam,SUKA MAKMUR,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.16,Kecamatan Leuser,LEUSER,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.16,Kecamatan Leuser,NAGA TIMBUL,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.03,Kecamatan Bambel,BIAK MULI,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.09,Kecamatan Bukit Tusam,LAWE DUA,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.04,Kecamatan Babussalam,KOTA KUTACANE,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.08,Kecamatan Lawe Bulan,KUTAMBARU,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.05,Kecamatan Badar,NATAM,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.07,Kecamatan Darul Hasanah,MAMAS,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.12,Kecamatan Ketambe,JAMBUR LAK-LAK,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.13,Kecamatan Deleng Pokhkisen,DELENG POKHISEN,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.04,Kecamatan Babussalam,BABUSSALAM,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.07,Kecamatan Teupah Selatan,TEUPAH SELATAN,2021,0,1377,pemeriksaan leher rahim dan payudara,5,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.04,Kecamatan Simeulue Timur,SIMEULUE TIMUR,2021,0,2675,pemeriksaan leher rahim dan payudara,102,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.04,Kecamatan Simeulue Timur,KUALA MAKMUR,2021,0,841,pemeriksaan leher rahim dan payudara,15,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.03,Kecamatan Teupah Barat,TEUPAH BARAT,2021,0,1182,pemeriksaan leher rahim dan payudara,2,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.09,"Kecamatan Teupah Tengah,",TEUPAH TENGAH,2021,0,946,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.01,Kecamatan Simeulue Tengah,SIMEULUE TENGAH,2021,0,340,pemeriksaan leher rahim dan payudara,50,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.05,Kecamatan Teluk Dalam,TELUK DALAM,2021,0,631,pemeriksaan leher rahim dan payudara,412,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.10,Kecamatan Simeulue Cut,SIMEULUE CUT,2021,0,944,pemeriksaan leher rahim dan payudara,14,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.02,Kecamatan Salang,SALANG,2021,0,1685,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.06,Kecamatan Simeulue Barat,SIMEULUE BARAT,2021,0,1025,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.06,Kecamatan Simeulue Barat,SANGGIRAN,2021,0,731,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.08,Kecamatan Alapan,ALAFAN,2021,0,721,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.05,Kecamatan Teluk Dalam,LUAN BALU,2021,0,439,pemeriksaan leher rahim dan payudara,20,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.08,Kecamatan Alapan,LAMEREM,2021,0,371,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.07,Kecamatan Teupah Selatan,ALUS ALUS,2021,0,0,pemeriksaan leher rahim dan payudara,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.01,Kecamatan Linge,LINGE,2021,1,1048,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.18,Kecamatan Atu Lintang,ATU LINTANG,2021,1,1004,iva positif,1,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.19,Kecamatan Jagong Jeget,JAGONG,2021,1,1765,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.08,Kecamatan Bintang,BINTANG,2021,1,1535,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.17,Kecamatan Laut Tawar,LUT TAWAR,2021,1,5743,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.11,Kecamatan Kebayakan,KEBAYAKAN,2021,1,2603,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.07,Kecamatan Pegasing,PEGASING,2021,1,3275,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.20,"Kecamatan Bies,",BIES,2021,1,1175,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.03,Kecamatan Bebesen,BEBESEN,2021,1,6491,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.12,Kecamatan Kute Panang,KUTE PANANG,2021,1,1403,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.02,Kecamatan Silih Nara,SILIH NARA,2021,1,4741,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.10,Kecamatan Ketol,KETOL,2021,1,1473,iva positif,1,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.13,Kecamatan Celala,CELALA,2021,1,1351,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.21,Kecamatan Rusip Antara,RUSIP,2021,1,1011,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.21,Kecamatan Rusip Antara,PAMAR,2021,1,322,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.01,Kecamatan Linge,KETAPANG NUSANTARA,2021,1,592,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.10,Kecamatan Ketol,KEKUYANG,2021,1,684,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.02,"Kecamatan Kutapanjang,",KUTA PANJANG,2021,1,1454,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.09,Kecamatan Blangjerango,BLANGJERANGO,2021,1,1137,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.01,Kecamatan Blangkejeren,BLANGKEJEREN,2021,1,4830,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.07,Kecamatan Puteri Betung,GUMPANG,2021,1,1417,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.08,Kecamatan Dabun Gelang,DABUN GELANG,2021,1,1048,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.06,"Kecamatan Blangpegayon,",CINTA MAJU,2021,1,993,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.05,Kecamatan Pining,PINTU RIME,2021,1,142,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.05,Kecamatan Pining,PINING,2021,1,291,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.03,Kecamatan Rikit Gaib,RIKIT GAIB,2021,1,701,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.11,Kecamatan Pantan Cuaca,KENYARAN,2021,1,671,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.04,Kecamatan Terangun,TERANGUN,2021,1,1478,iva positif,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.10,Kecamatan Teripe Jaya,REREBE,2021,1,896,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.03,Kecamatan Manggeng,MANGGENG,2021,0,5499,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.09,Kecamatan Lembah Sabil,LEMBAH SABIL,2021,0,2613,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.02,Kecamatan Tangan-Tangan,TANGAN-TANGAN,2021,0,1534,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.02,Kecamatan Tangan-Tangan,BINEH KRUENG,2021,0,1056,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.07,Kecamatan Setia,LHANG,2021,0,2473,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.01,Kecamatan Blang Pidie,BLANG PIDIE,2021,0,4344,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.08,"Kecamatan Jeumpa,",ALUE SUNGAI PINANG,2021,0,2176,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.04,Kecamatan Susoh,SUSOH,2021,0,8256,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.04,Kecamatan Susoh,SANGKALAN,2021,0,1511,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.05,Kecamatan Kuala Batee,KUALA BATEE,2021,0,7152,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.05,Kecamatan Kuala Batee,ALUE PISANG,2021,0,681,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.06,Kecamatan Babah Rot,BABAHROT,2021,0,2418,iva positif,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.06,Kecamatan Babah Rot,IE MIRAH,2021,0,1062,iva positif,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.01,Kecamatan Langsa Timur,UPT LANGSA TIMUR,2021,1,2200,iva positif,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.04,Kecamatan Langsa Lama,UPT LANGSA LAMA,2021,1,4379,iva positif,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.02,Kecamatan Langsa Barat,UPT LANGSA BARAT,2021,1,5184,iva positif,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.05,"Kecamatan Langsa Baro,",UPT LANGSA BARO,2021,1,7310,iva positif,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.03,Kecamatan Langsa Kota,UPT LANGSA KOTA,2021,1,5600,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,ALUE BILIE,2021,0,2358,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,SUKA MULYA,2021,0,2760,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,LUENG KEBEU JAGAD,2021,0,1978,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,ALUE RAMBOT,2021,0,3106,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.01,Kecamatan Kuala,UJONG FATIHAH,2021,0,5513,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.07,Kecamatan Kuala Pesisir,PADANG PANYANG,2021,0,3011,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.07,Kecamatan Kuala Pesisir,PADANG RUBEK,2021,0,826,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.08,Kecamatan Tadu Raya,SIMPANG JAYA,2021,0,2506,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.08,Kecamatan Tadu Raya,KUALA TADU,2021,0,673,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.04,Kecamatan Beutong,BEUTONG,2021,0,2515,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.04,Kecamatan Beutong,BEUTONG ATEUH,2021,0,351,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.02,Kecamatan Seunagan,JEURAM,2021,0,4599,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.02,Kecamatan Seunagan,COT KUTA,2021,0,1881,iva positif,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.03,Kecamatan Seunagan Timur,UTEUN PULO,2021,0,3463,iva positif,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.03,Kecamatan Meuraxa,MEURAXA,2021,1,2941,iva positif,3,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.08,Kecamatan Jaya Baru,JAYA BARU,2021,1,3771,iva positif,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.07,Kecamatan Banda Raya,BANDA RAYA,2021,1,4060,iva positif,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.01,Kecamatan Baiturrahman,BAITURRAHMAN,2021,1,5852,iva positif,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.05,Kecamatan Lueng Bata,BATOH,2021,1,3923,iva positif,2,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.02,Kecamatan Kuta Alam,KUTA ALAM,2021,1,4103,iva positif,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.02,Kecamatan Kuta Alam,LAMPULO,2021,1,3247,iva positif,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.06,Kecamatan Kuta Raja,LAMPASEH KOTA,2021,1,1617,iva positif,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.04,Kecamatan Syiah Kuala,KOPELMA DARUSSALAM,2021,1,1713,iva positif,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.04,Kecamatan Syiah Kuala,JEULINGKE,2021,1,1961,iva positif,1,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.09,Kecamatan Ulee Kareng,ULEE KARENG,2021,1,1821,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.07,Kecamatan Tamiang Hulu,TAMIANG HULU,2021,1,3388,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.10,Kecamatan Bandar Pusaka,BANDAR PUSAKA,2021,1,2254,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.06,Kecamatan Kejuruan Muda,KEJURUAN MUDA,2021,1,6254,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.11,Kecamatan Tenggulun,SIMPANG KIRI,2021,0,3134,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.08,Kecamatan Rantau,RANTAU,2021,1,4655,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.08,Kecamatan Rantau,SAPTA JAYA,2021,1,1850,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.05,Kecamatan Kota Kualasinpang,KUALA SIMPANG,2021,0,3573,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.04,Kecamatan Seruway,SERUWAY,2021,1,4700,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.02,Kecamatan Bendahara,SUNGAI IYU,2021,0,2369,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.02,Kecamatan Bendahara,BENDAHARA,2021,1,1308,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.09,Kecamatan Banda Mulia,BANDA MULIA,2021,0,2075,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.03,Kecamatan Karang Baru,KARANG BARU,2021,0,4938,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.12,Kecamatan Sekerak,SEKERAK,2021,1,1177,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.01,Kecamatan Manyak Payed,MANYAK PAYED,2021,0,5700,iva positif,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.03,Kecamatan Karang Baru,SELELEH,2021,0,2191,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.05,Kecamatan Geumpang,GEUMPANG,2021,0,916,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.27,Kecamatan Mane,MANE,2021,0,1235,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.06,Kecamatan Geulumpang  Tiga,GLUMPANG TIGA,2021,0,1205,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.06,Kecamatan Geulumpang  Tiga,TEUPIEN RAYA,2021,0,1605,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.29,Kecamatan Glumpang  Baro,GLUMPANG BARO,2021,0,1648,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,MUTIARA,2021,0,2212,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,MUTIARA BARAT,2021,0,3050,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,UJONG RIMBA,2021,0,2912,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.21,Kecamatan Tiro/Truseb,TIRO,2021,0,1174,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.19,Kecamatan Tangse,TANGSE,2021,0,3817,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.22,Kecamatan Keumala,TITEUE,2021,0,975,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.22,Kecamatan Keumala,KEUMALA,2021,0,1468,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.17,Kecamatan Sakti,SAKTI,2021,0,3091,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.11,Kecamatan Mila,MILA,2021,0,1360,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.14,Kecamatan Padang Tiji,PADANG TIJI,2021,0,3180,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.04,Kecamatan Delima,DELIMA,2021,0,1854,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.04,Kecamatan Delima,REUBEE,2021,0,1262,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.25,Kecamatan Grong-grong,GRONG-GRONG,2021,0,1030,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.07,Kecamatan Indra Jaya,INDRAJAYA,2021,0,3470,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.15,Kecamatan Peukan Baro,PEUKAN BARO,2021,0,3031,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.08,Kecamatan Kembang Tanjong,KEMBANG TANJONG,2021,0,3160,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.18,Kecamatan Simpang Tiga,SIMPANG TIGA,2021,0,3387,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.09,Kecamatan Kota Sigli,KOTA SIGLI,2021,0,3040,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.16,Kecamatan Pidie,PIDIE,2021,0,6554,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.03,Kecamatan Batee,BATEE,2021,0,2923,iva positif,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.12,Kecamatan Muara Tiga,MUARA TIGA,2021,0,2798,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.09,"Kecamatan Trumon,",TRUMON,2021,1,898,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.18,Kecamatan Trumon Tengah,LADANG RIMBA,2021,1,1041,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.16,Kecamatan Trumon Timur,KRUENG LUAS,2021,1,1667,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.01,Kecamatan Bakongan,BAKONGAN,2021,1,1098,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.17,Kecamatan Kota Bahagia,BUKIT GADENG,2021,1,1263,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.15,Kecamatan Bakongan Timur,SEUBADEH,2021,1,1102,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.03,Kecamatan Kluet Selatan,KLUET SELATAN,2021,1,2437,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.14,Kecamatan Kluet Timur,DURIAN KAWAN,2021,1,1191,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.14,Kecamatan Kluet Timur,KLUET TIMUR,2021,1,1273,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KLUET UTARA,2021,1,2154,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KAMPONG PAYA,2021,1,1400,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KUALA BA'U,2021,1,1046,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.10,Kecamatan Pasi Raja,LADANG TUHA,2021,1,1644,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.13,Kecamatan Kluet Tengah,MANGGAMAT,2021,1,1164,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.08,Kecamatan Tapaktuan,TAPAKTUAN,2021,1,1934,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.08,Kecamatan Tapaktuan,LHOK BENGKUANG,2021,1,1943,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.06,Kecamatan Samadua,SAMADUA,2021,1,2618,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.07,Kecamatan Sawang,SAWANG,2021,1,2643,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.05,Kecamatan Meukek,MEUKEK,2021,1,1873,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.05,Kecamatan Meukek,DRIEN JALO,2021,1,1357,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.04,Kecamatan Labuhan Haji,LABUHAN HAJI,2021,1,1706,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.11,"Kecamatan Labuhan Haji Timur,",PEULUMAT,2021,1,2221,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.12,Kecamatan Labuhan Haji Barat,BLANGKEJEREN,2021,1,2816,iva positif,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.10,Kecamatan Pasi Raja,UJONG PADANG RASIAN,2021,1,1427,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.01,Kecamatan Meureudu,MEUREUDU,2021,0,2991,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.05,Kecamatan Meurah Dua,MEURAH DUA,2021,0,1775,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,BANDAR DUA,2021,0,1604,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,KUTA KRUENG,2021,0,1085,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,BLANG KUTA,2021,0,964,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.03,Kecamatan Jangka Buaya,JANGKA BUYA,2021,0,2154,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.02,Kecamatan Ulim,ULIM,2021,0,2673,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.08,Kecamatan Trienggadeng,TRIENGGADENG,2021,0,2356,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.07,Kecamatan Panteraja,PANTE RAJA,2021,0,1543,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,BANDAR BARU,2021,0,3214,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,CUBO,2021,0,836,iva positif,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,SIMPANG 4 NYONG,2021,0,1892,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.05,Kecamatan Serbajadi,LOKOP,2021,0,1001,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.20,Kecamatan Simpang Jernih,SIMPANG JERNIH,2021,0,596,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.24,Kecamatan Peunaron,PEUNARON,2021,0,1464,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.04,Kecamatan Birem Bayeun,BIREM BAYEUN,2021,0,4385,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.08,Kecamatan Rantau Selamat,RANTAU SELAMAT,2021,0,1986,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.19,Kecamatan Sungai Raya,SUNGAI RAYA,2021,0,1882,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.07,Kecamatan Peureulak,PEUREULAK KOTA,2021,0,5708,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.17,Kecamatan Peureulak  Timur,PEUREULAK TIMUR,2021,0,2196,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.18,Kecamatan Peureulak Barat,PEUREULAK BARAT,2021,0,2397,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.10,Kecamatan Rantau Peureulak,RANTO PEUREULAK,2021,0,3840,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.03,Kecamatan Idi Rayeuk,IDI RAYEUK,2021,0,5694,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.16,Kecamatan Peudawa,PEUDAWA,2021,0,1802,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.15,Kecamatan Banda Alam,KEUDE GEUROBAK,2021,0,1303,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.14,Kecamatan Idi Tunong,IDI TUNONG,2021,0,1539,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.21,Kecamatan Darul Ihsan,DARUL IHSAN,2021,0,962,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.23,Kecamatan Idi Timur,IDI TIMUR,2021,0,929,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.01,Kecamatan Darul Aman,DARUL AMAN,2021,0,2970,iva positif,2,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.06,Kecamatan Nurussalam,NURUSSALAM,2021,0,2629,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.22,Kecamatan Darul Falah,DARUL FALAH,2021,0,504,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.02,Kecamatan Julok,JULOK,2021,0,4078,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.13,Kecamatan Indra Makmu,ALUE IE MIRAH,2021,0,1533,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.13,Kecamatan Indra Makmu,PERKEBUNAN INTI ALUE IE ITAM,2021,0,1201,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.11,Kecamatan Pante Bidari,MATANG PUDENG,2021,0,1591,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.11,Kecamatan Pante Bidari,PANTE BIDARI,2021,0,2137,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.09,Kecamatan Simpang Ulim,SIMPANG ULIM,2021,0,3098,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.12,Kecamatan Madat,MADAT,2021,0,4016,iva positif,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.07,Kecamatan Peureulak,LEUBOK PEMPENG,2021,0,1188,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.07,Kecamatan Timang Gajah,LAMPAHAN,2021,1,3032,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.07,Kecamatan Timang Gajah,RONGA RONGA,2021,1,1404,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.01,Kecamatan Pintu Rime Gayo,BLANG RAKAL,2021,1,1028,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.01,Kecamatan Pintu Rime Gayo,SINGAH MULO,2021,1,1069,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.05,Kecamatan Bukit,SIMPANG TIGA,2021,1,4401,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.06,Kecamatan Wih Pesam,PANTE RAYA,2021,1,2972,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.06,Kecamatan Wih Pesam,SIMPANG TERITIT,2021,0,1144,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.04,Kecamatan Bandar,BANDAR,2021,1,3794,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.08,Kecamatan Bener Kelipah,BENER KELIPAH,2021,1,730,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.03,Kecamatan Syiah Utama,SAMAR KILANG,2021,0,226,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.09,Kecamatan Mesidah,MESIDAH,2021,0,551,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.02,Kecamatan Permata,BUNTUL KEUMUMU,2021,1,1706,iva positif,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.02,Kecamatan Permata,RAMUNG ,2021,0,1276,iva positif,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.01,Kecamatan Simpang Kiri,SIMPANG KIRI,2021,0,6879,iva positif,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.02,Kecamatan Penanggalan,PENANGGALAN,2021,0,2135,iva positif,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.03,Kecamatan Rundeng,RUNDING,2021,0,1599,iva positif,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.04,Kecamatan Sultan Daulat,SULTAN DAULAT,2021,0,780,iva positif,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.05,Kecamatan Longkib,LONGKIB,2021,0,3380,iva positif,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.02,Kecamatan Penanggalan,JONTOR,2021,0,1365,iva positif,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.01,Kecamatan Simpang Kiri,BAKAL BUAH,2021,0,3985,iva positif,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.04,Kecamatan Sultan Daulat,BATU-BATU,2021,0,614,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.01,Kecamatan Johan Pahlawan,JOHAN PAHLAWAN,2021,1,4391,iva positif,3,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.01,Kecamatan Johan Pahlawan,SUAK RIBEE,2021,1,1317,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.05,Kecamatan Samatiga,COT SEUMEREUNG,2021,1,2406,iva positif,3,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.06,Kecamatan Bubon,KUTA PADANG LAYUNG,2021,1,858,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.07,Kecamatan Arongan Lambalek,DRIEN RAMPAK,2021,1,1331,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.04,Kecamatan Woyla,KUALA BHEE,2021,1,1591,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.10,Kecamatan Woyla Barat,PASIE MALI (WOYLA BARAT),2021,1,311,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.11,Kecamatan Woyla Timur,TANGKEH,2021,1,544,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.02,Kecamatan Kaway XVI,PEUREUMEU ,2021,1,2438,iva positif,1,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.09,Kecamatan Meureubo,MEUREUBO,2021,1,3280,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.08,Kecamatan Pante Ceureumen,PANTE CEUREUMEN,2021,1,1273,iva positif,1,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.12,Kecamatan Panton Reu,MENTULANG,2021,1,717,iva positif,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.03,Kecamatan Sungai Mas,KAJEUNG,2021,1,234,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.15,Kecamatan Sawang,SAWANG,2021,1,2889,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.15,Kecamatan Sawang,BABAH BULOH,2021,1,2635,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.16,Kecamatan Nisam,NISAM,2021,1,2785,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.26,Kecamatan Banda Baro,BANDA BARO,2021,1,1139,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.03,Kecamatan Kuta Makmur,KUTA MAKMUR,2021,1,3749,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.22,Kecamatan Simpang Kramat,SIMPANG KRAMAT,2021,1,1370,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.11,Kecamatan Syamtalira Bayu,SYAMTALIRA BAYU,2021,1,3143,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.11,Kecamatan Syamtalira Bayu,NISAM ANTARA,2021,1,1904,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.25,Kecamatan Geuredong Pase,GEUREUDONG PASE,2021,1,771,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.07,Kecamatan Meurah Mulia,MEURAH MULIA,2021,1,3002,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.05,Kecamatan Matangkuli,MATANGKULI,2021,1,2664,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.20,Kecamatan Paya Bakong,PAYA BAKONG,2021,1,2184,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.24,Kecamatan Pirak Timur,PIRAK TIMU,2021,1,1243,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.17,Kecamatan Cot Girek,COT GIREK,2021,1,2829,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.14,Kecamatan T. Jambo Aye,TANAH JAMBO AYE,2021,1,4799,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.14,Kecamatan T. Jambo Aye,LHOK BEURINGEN,2021,1,1406,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.18,Kecamatan Langkahan,LANGKAHAN,2021,1,2036,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.18,Kecamatan Langkahan,SIMPANG TIGA,2021,1,1126,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.09,Kecamatan Seunuddon,SEUNUDON,2021,1,2399,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.09,Kecamatan Seunuddon,BLANG GEULUMPANG,2021,1,1242,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.01,Kecamatan Baktiya,BAKTIYA,2021,1,5302,iva positif,3,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.19,Kecamatan Baktiya Barat,SAMPOINIET,2021,1,2666,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.04,Kecamatan Lhoksukon,LHOKSUKON,2021,1,4722,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.04,Kecamatan Lhoksukon,BUKET HAGU,2021,1,2255,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.12,Kecamatan Tanah Luas,TANAH LUAS,2021,1,3577,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.21,Kecamatan Nibong,NIBONG,2021,1,1543,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.08,Kecamatan Samudera,SAMUDERA,2021,1,3813,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.10,Kecamatan Syamtalira Aron,SYAMTALIRA ARON,2021,1,2767,iva positif,1,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.13,Kecamatan Tanah Pasir,TANAH PASIR,2021,1,1414,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.23,Kecamatan Lapang,LAPANG,2021,1,1260,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.06,Kecamatan Muara Batu,MUARA BATU,2021,1,3914,iva positif,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.02,Kecamatan Dewantara,DEWANTARA,2021,1,6431,iva positif,2,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.01,Kecamatan Samalanga,SAMALANGA,2021,0,5108,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.11,Kecamatan Simpang Mamplam,SIMPANG MAMPLAM,2021,0,4607,iva positif,2,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.08,Kecamatan Pandrah,PANDRAH,2021,0,1403,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.02,Kecamatan Jeunieb,JEUNIEB,2021,0,4118,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.12,Kecamatan Peulimbang,PEULIMBANG,2021,0,1858,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.03,Kecamatan Peudada,PEUDADA,2021,0,4405,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.09,Kecamatan Juli,JULI ,2021,0,2403,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.09,Kecamatan Juli,JULI-2,2021,0,2958,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.04,Kecamatan Jeumpa,JEUMPA,2021,0,6072,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.13,Kecamatan Kota Juang,KOTA JUANG,2021,0,8403,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.14,Kecamatan Kuala,KUALA ,2021,0,2921,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.10,Kecamatan Jangka,JANGKA,2021,0,4687,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,PEUSANGAN,2021,0,5161,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,PEUSANGAN SELATAN,2021,0,2385,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.15,Kecamatan Peusangan Siblah Krueng,PEUSANGAN SIBLAH KRUENG,2021,0,1903,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.06,Kecamatan Makmur,MAKMUR,2021,0,2509,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.07,Kecamatan Gandapura,GANDA PURA,2021,0,2748,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.17,Kecamatan Kuta Blang,KUTA BLANG,2021,0,3671,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,COT IE JUE,2021,0,3447,iva positif,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.07,Kecamatan Gandapura,MON KEULAYU,2021,0,990,iva positif,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,SUKAJAYA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,JABOI,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,COT BA'U,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,SUKAKARYA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,IBOIH,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,PRIA LAOT,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.03,Kecamatan Blang Mangat,BLANG MANGAT,2021,1,2830,iva positif,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.03,Kecamatan Blang Mangat,BLANG CUT,2021,1,1349,iva positif,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.01,Kecamatan Muara Dua,MUARA DUA,2021,1,1561,iva positif,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.04,Kecamatan Muara Satu,MUARA SATU,2021,1,6116,iva positif,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.02,Kecamatan Banda Sakti,BANDA SAKTI,2021,1,10034,iva positif,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.02,Kecamatan Banda Sakti,MON GEUDONG,2021,1,4088,iva positif,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.01,Kecamatan Muara Dua,KANDANG,2021,1,2955,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.01,Kecamatan Pulau Banyak,PULAU BANYAK,2021,0,1200,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.16,Kecamatan Pulau Banyak Barat,PULAU BANYAK BARAT,2021,0,813,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.04,Kecamatan Singkil,SINGKIL,2021,0,4986,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.10,Kecamatan Singkil Utara,SINGKIL UTARA,2021,0,2731,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.14,Kecamatan Kuala Baru,KUALA BARU,2021,0,665,iva positif,2,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.02,Kecamatan Simpang Kanan,SIMPANG KANAN,2021,0,2995,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.06,Kecamatan Gunung Meriah,GUNUNG MERIAH,2021,0,9378,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.11,Kecamatan Danau Paris,DANAU PARIS,2021,0,2029,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.12,Kecamatan Suro Makmur,SURO,2021,0,2315,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.13,Kecamatan Singkohor,SINGKOHOR,2021,0,1626,iva positif,2,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.09,Kecamatan Kota Baharu,KUTA BAHARU,2021,0,1751,iva positif,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.02,Kecamatan Simpang Kanan,KUTA TINGGI,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.01,Kecamatan Lhoong,LHOONG,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.02,Kecamatan Lhoknga,LHOKNGA,2021,0,1928,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.22,Kecamatan Leupung,LEUPUNG,2021,0,739,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.03,Kecamatan Indrapuri,INDRAPURI,2021,0,2461,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.03,Kecamatan Indrapuri,LAMPUPOK,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.16,Kecamatan Kota Cot Glie,KUTA COT GLIE,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.16,Kecamatan Kota Cot Glie,IE ALANG,2021,0,329,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.04,Kecamatan Seulimeum,SEULIMEUM,2021,0,2281,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.04,Kecamatan Seulimeum,LAMTEUBA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.15,Kecamatan Kota Jantho,KOTA JANTHO,2021,0,1196,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.14,"Kecamatan Lembah Seulawah,",LEMBAH SEULAWAH,2021,0,1910,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.09,Kecamatan Mesjid Raya,MESJID RAYA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.12,Kecamatan Darussalam,DARUSSALAM,2021,0,3961,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.20,Kecamatan Baitussalam,BAITUSSALAM,2021,0,3094,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.11,Kecamatan Kuta Baro,KUTA BARO,2021,0,5470,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.05,Kecamatan Montasik,MONTASIK,2021,0,2122,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.05,Kecamatan Montasik,PIYEUNG,2021,0,552,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.23,Kecamatan Blang Bintang,BLANG BINTANG,2021,0,1657,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.10,Kecamatan Ingin Jaya,INGIN JAYA,2021,0,5767,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.21,"Kecamatan Krueng Barona Jaya,",KRUENG BARONA JAYA,2021,0,2814,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.06,Kecamatan Sukamakmur,SUKAMAKMUR,2021,0,1266,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.17,Kecamatan Kuta Malaka,KUTA MALAKA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.18,Kecamatan Simpang Tiga,SIMPANG TIGA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.07,Kecamatan Darul Imarah,DARUL IMARAH,2021,0,5076,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.19,Kecamatan Darul Kamal,DARUL KAMAL,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.08,Kecamatan Peukan Bada,PEUKAN BADA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.08,Kecamatan Peukan Bada,LAMPISANG,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.13,Kecamatan Pulo Aceh,PULO ACEH,2021,0,638,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.01,Kecamatan Teunom,TEUNOM,2021,1,2000,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.09,Kecamatan Pasie Raya,PASIE RAYA,2021,1,1043,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.06,Kecamatan Panga,PANGA,2021,1,1333,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.02,Kecamatan Krueng Sabee,KRUENG SABEE,2021,1,1846,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.02,Kecamatan Krueng Sabee,CALANG,2021,1,1236,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.03,Kecamatan Setia Bhakti,LAGEUN,2021,1,683,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.03,Kecamatan Setia Bhakti,PANTE KUYUN,2021,1,760,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.08,Kecamatan Darul Hikmah,PATEK,2021,1,1141,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.04,Kecamatan Sampoiniet,LHOK KRUET,2021,1,766,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.04,Kecamatan Sampoiniet,LIGAN,2021,1,488,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.05,Kecamatan Jaya,LAMNO,2021,1,2189,iva positif,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.07,Kecamatan Indra Jaya,INDRAJAYA,2021,1,1115,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.01,Kecamatan Lawe Alas,NGKERAN,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.11,Kecamatan Babul Rahmah,LAWE SUMUR,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.11,Kecamatan Babul Rahmah,UNING SIGUR-GUR,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.15,Kecamatan Tanoh Alas,TANOH ALAS,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.02,Kecamatan Lawe Sigala-Gala,LAWE SIGALA-GALA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.06,Kecamatan Babul Makmur,LAWE PERBUNGA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.06,Kecamatan Babul Makmur,GURGUR PARDOMUAN,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.10,Kecamatan Semadam,SUKA MAKMUR,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.16,Kecamatan Leuser,LEUSER,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.16,Kecamatan Leuser,NAGA TIMBUL,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.03,Kecamatan Bambel,BIAK MULI,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.09,Kecamatan Bukit Tusam,LAWE DUA,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.04,Kecamatan Babussalam,KOTA KUTACANE,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.08,Kecamatan Lawe Bulan,KUTAMBARU,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.05,Kecamatan Badar,NATAM,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.07,Kecamatan Darul Hasanah,MAMAS,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.12,Kecamatan Ketambe,JAMBUR LAK-LAK,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.13,Kecamatan Deleng Pokhkisen,DELENG POKHISEN,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.04,Kecamatan Babussalam,BABUSSALAM,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.07,Kecamatan Teupah Selatan,TEUPAH SELATAN,2021,0,1377,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.04,Kecamatan Simeulue Timur,SIMEULUE TIMUR,2021,0,2675,iva positif,4,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.04,Kecamatan Simeulue Timur,KUALA MAKMUR,2021,0,841,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.03,Kecamatan Teupah Barat,TEUPAH BARAT,2021,0,1182,iva positif,1,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.09,"Kecamatan Teupah Tengah,",TEUPAH TENGAH,2021,0,946,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.01,Kecamatan Simeulue Tengah,SIMEULUE TENGAH,2021,0,340,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.05,Kecamatan Teluk Dalam,TELUK DALAM,2021,0,631,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.10,Kecamatan Simeulue Cut,SIMEULUE CUT,2021,0,944,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.02,Kecamatan Salang,SALANG,2021,0,1685,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.06,Kecamatan Simeulue Barat,SIMEULUE BARAT,2021,0,1025,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.06,Kecamatan Simeulue Barat,SANGGIRAN,2021,0,731,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.08,Kecamatan Alapan,ALAFAN,2021,0,721,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.05,Kecamatan Teluk Dalam,LUAN BALU,2021,0,439,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.08,Kecamatan Alapan,LAMEREM,2021,0,371,iva positif,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.07,Kecamatan Teupah Selatan,ALUS ALUS,2021,0,0,iva positif,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.01,Kecamatan Linge,LINGE,2021,1,1048,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.18,Kecamatan Atu Lintang,ATU LINTANG,2021,1,1004,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.19,Kecamatan Jagong Jeget,JAGONG,2021,1,1765,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.08,Kecamatan Bintang,BINTANG,2021,1,1535,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.17,Kecamatan Laut Tawar,LUT TAWAR,2021,1,5743,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.11,Kecamatan Kebayakan,KEBAYAKAN,2021,1,2603,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.07,Kecamatan Pegasing,PEGASING,2021,1,3275,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.20,"Kecamatan Bies,",BIES,2021,1,1175,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.03,Kecamatan Bebesen,BEBESEN,2021,1,6491,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.12,Kecamatan Kute Panang,KUTE PANANG,2021,1,1403,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.02,Kecamatan Silih Nara,SILIH NARA,2021,1,4741,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.10,Kecamatan Ketol,KETOL,2021,1,1473,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.13,Kecamatan Celala,CELALA,2021,1,1351,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.21,Kecamatan Rusip Antara,RUSIP,2021,1,1011,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.21,Kecamatan Rusip Antara,PAMAR,2021,1,322,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.01,Kecamatan Linge,KETAPANG NUSANTARA,2021,1,592,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.10,Kecamatan Ketol,KEKUYANG,2021,1,684,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.02,"Kecamatan Kutapanjang,",KUTA PANJANG,2021,1,1454,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.09,Kecamatan Blangjerango,BLANGJERANGO,2021,1,1137,curiga kanker,3,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.01,Kecamatan Blangkejeren,BLANGKEJEREN,2021,1,4830,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.07,Kecamatan Puteri Betung,GUMPANG,2021,1,1417,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.08,Kecamatan Dabun Gelang,DABUN GELANG,2021,1,1048,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.06,"Kecamatan Blangpegayon,",CINTA MAJU,2021,1,993,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.05,Kecamatan Pining,PINTU RIME,2021,1,142,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.05,Kecamatan Pining,PINING,2021,1,291,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.03,Kecamatan Rikit Gaib,RIKIT GAIB,2021,1,701,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.11,Kecamatan Pantan Cuaca,KENYARAN,2021,1,671,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.04,Kecamatan Terangun,TERANGUN,2021,1,1478,curiga kanker,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.10,Kecamatan Teripe Jaya,REREBE,2021,1,896,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.03,Kecamatan Manggeng,MANGGENG,2021,0,5499,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.09,Kecamatan Lembah Sabil,LEMBAH SABIL,2021,0,2613,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.02,Kecamatan Tangan-Tangan,TANGAN-TANGAN,2021,0,1534,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.02,Kecamatan Tangan-Tangan,BINEH KRUENG,2021,0,1056,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.07,Kecamatan Setia,LHANG,2021,0,2473,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.01,Kecamatan Blang Pidie,BLANG PIDIE,2021,0,4344,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.08,"Kecamatan Jeumpa,",ALUE SUNGAI PINANG,2021,0,2176,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.04,Kecamatan Susoh,SUSOH,2021,0,8256,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.04,Kecamatan Susoh,SANGKALAN,2021,0,1511,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.05,Kecamatan Kuala Batee,KUALA BATEE,2021,0,7152,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.05,Kecamatan Kuala Batee,ALUE PISANG,2021,0,681,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.06,Kecamatan Babah Rot,BABAHROT,2021,0,2418,curiga kanker,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.06,Kecamatan Babah Rot,IE MIRAH,2021,0,1062,curiga kanker,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.01,Kecamatan Langsa Timur,UPT LANGSA TIMUR,2021,1,2200,curiga kanker,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.04,Kecamatan Langsa Lama,UPT LANGSA LAMA,2021,1,4379,curiga kanker,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.02,Kecamatan Langsa Barat,UPT LANGSA BARAT,2021,1,5184,curiga kanker,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.05,"Kecamatan Langsa Baro,",UPT LANGSA BARO,2021,1,7310,curiga kanker,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.03,Kecamatan Langsa Kota,UPT LANGSA KOTA,2021,1,5600,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,ALUE BILIE,2021,0,2358,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,SUKA MULYA,2021,0,2760,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,LUENG KEBEU JAGAD,2021,0,1978,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,ALUE RAMBOT,2021,0,3106,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.01,Kecamatan Kuala,UJONG FATIHAH,2021,0,5513,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.07,Kecamatan Kuala Pesisir,PADANG PANYANG,2021,0,3011,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.07,Kecamatan Kuala Pesisir,PADANG RUBEK,2021,0,826,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.08,Kecamatan Tadu Raya,SIMPANG JAYA,2021,0,2506,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.08,Kecamatan Tadu Raya,KUALA TADU,2021,0,673,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.04,Kecamatan Beutong,BEUTONG,2021,0,2515,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.04,Kecamatan Beutong,BEUTONG ATEUH,2021,0,351,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.02,Kecamatan Seunagan,JEURAM,2021,0,4599,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.02,Kecamatan Seunagan,COT KUTA,2021,0,1881,curiga kanker,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.03,Kecamatan Seunagan Timur,UTEUN PULO,2021,0,3463,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.03,Kecamatan Meuraxa,MEURAXA,2021,1,2941,curiga kanker,2,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.08,Kecamatan Jaya Baru,JAYA BARU,2021,1,3771,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.07,Kecamatan Banda Raya,BANDA RAYA,2021,1,4060,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.01,Kecamatan Baiturrahman,BAITURRAHMAN,2021,1,5852,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.05,Kecamatan Lueng Bata,BATOH,2021,1,3923,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.02,Kecamatan Kuta Alam,KUTA ALAM,2021,1,4103,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.02,Kecamatan Kuta Alam,LAMPULO,2021,1,3247,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.06,Kecamatan Kuta Raja,LAMPASEH KOTA,2021,1,1617,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.04,Kecamatan Syiah Kuala,KOPELMA DARUSSALAM,2021,1,1713,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.04,Kecamatan Syiah Kuala,JEULINGKE,2021,1,1961,curiga kanker,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.09,Kecamatan Ulee Kareng,ULEE KARENG,2021,1,1821,curiga kanker,2,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.07,Kecamatan Tamiang Hulu,TAMIANG HULU,2021,1,3388,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.10,Kecamatan Bandar Pusaka,BANDAR PUSAKA,2021,1,2254,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.06,Kecamatan Kejuruan Muda,KEJURUAN MUDA,2021,1,6254,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.11,Kecamatan Tenggulun,SIMPANG KIRI,2021,0,3134,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.08,Kecamatan Rantau,RANTAU,2021,1,4655,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.08,Kecamatan Rantau,SAPTA JAYA,2021,1,1850,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.05,Kecamatan Kota Kualasinpang,KUALA SIMPANG,2021,0,3573,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.04,Kecamatan Seruway,SERUWAY,2021,1,4700,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.02,Kecamatan Bendahara,SUNGAI IYU,2021,0,2369,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.02,Kecamatan Bendahara,BENDAHARA,2021,1,1308,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.09,Kecamatan Banda Mulia,BANDA MULIA,2021,0,2075,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.03,Kecamatan Karang Baru,KARANG BARU,2021,0,4938,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.12,Kecamatan Sekerak,SEKERAK,2021,1,1177,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.01,Kecamatan Manyak Payed,MANYAK PAYED,2021,0,5700,curiga kanker,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.03,Kecamatan Karang Baru,SELELEH,2021,0,2191,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.05,Kecamatan Geumpang,GEUMPANG,2021,0,916,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.27,Kecamatan Mane,MANE,2021,0,1235,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.06,Kecamatan Geulumpang  Tiga,GLUMPANG TIGA,2021,0,1205,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.06,Kecamatan Geulumpang  Tiga,TEUPIEN RAYA,2021,0,1605,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.29,Kecamatan Glumpang  Baro,GLUMPANG BARO,2021,0,1648,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,MUTIARA,2021,0,2212,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,MUTIARA BARAT,2021,0,3050,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,UJONG RIMBA,2021,0,2912,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.21,Kecamatan Tiro/Truseb,TIRO,2021,0,1174,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.19,Kecamatan Tangse,TANGSE,2021,0,3817,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.22,Kecamatan Keumala,TITEUE,2021,0,975,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.22,Kecamatan Keumala,KEUMALA,2021,0,1468,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.17,Kecamatan Sakti,SAKTI,2021,0,3091,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.11,Kecamatan Mila,MILA,2021,0,1360,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.14,Kecamatan Padang Tiji,PADANG TIJI,2021,0,3180,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.04,Kecamatan Delima,DELIMA,2021,0,1854,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.04,Kecamatan Delima,REUBEE,2021,0,1262,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.25,Kecamatan Grong-grong,GRONG-GRONG,2021,0,1030,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.07,Kecamatan Indra Jaya,INDRAJAYA,2021,0,3470,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.15,Kecamatan Peukan Baro,PEUKAN BARO,2021,0,3031,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.08,Kecamatan Kembang Tanjong,KEMBANG TANJONG,2021,0,3160,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.18,Kecamatan Simpang Tiga,SIMPANG TIGA,2021,0,3387,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.09,Kecamatan Kota Sigli,KOTA SIGLI,2021,0,3040,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.16,Kecamatan Pidie,PIDIE,2021,0,6554,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.03,Kecamatan Batee,BATEE,2021,0,2923,curiga kanker,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.12,Kecamatan Muara Tiga,MUARA TIGA,2021,0,2798,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.09,"Kecamatan Trumon,",TRUMON,2021,1,898,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.18,Kecamatan Trumon Tengah,LADANG RIMBA,2021,1,1041,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.16,Kecamatan Trumon Timur,KRUENG LUAS,2021,1,1667,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.01,Kecamatan Bakongan,BAKONGAN,2021,1,1098,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.17,Kecamatan Kota Bahagia,BUKIT GADENG,2021,1,1263,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.15,Kecamatan Bakongan Timur,SEUBADEH,2021,1,1102,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.03,Kecamatan Kluet Selatan,KLUET SELATAN,2021,1,2437,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.14,Kecamatan Kluet Timur,DURIAN KAWAN,2021,1,1191,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.14,Kecamatan Kluet Timur,KLUET TIMUR,2021,1,1273,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KLUET UTARA,2021,1,2154,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KAMPONG PAYA,2021,1,1400,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KUALA BA'U,2021,1,1046,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.10,Kecamatan Pasi Raja,LADANG TUHA,2021,1,1644,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.13,Kecamatan Kluet Tengah,MANGGAMAT,2021,1,1164,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.08,Kecamatan Tapaktuan,TAPAKTUAN,2021,1,1934,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.08,Kecamatan Tapaktuan,LHOK BENGKUANG,2021,1,1943,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.06,Kecamatan Samadua,SAMADUA,2021,1,2618,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.07,Kecamatan Sawang,SAWANG,2021,1,2643,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.05,Kecamatan Meukek,MEUKEK,2021,1,1873,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.05,Kecamatan Meukek,DRIEN JALO,2021,1,1357,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.04,Kecamatan Labuhan Haji,LABUHAN HAJI,2021,1,1706,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.11,"Kecamatan Labuhan Haji Timur,",PEULUMAT,2021,1,2221,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.12,Kecamatan Labuhan Haji Barat,BLANGKEJEREN,2021,1,2816,curiga kanker,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.10,Kecamatan Pasi Raja,UJONG PADANG RASIAN,2021,1,1427,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.01,Kecamatan Meureudu,MEUREUDU,2021,0,2991,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.05,Kecamatan Meurah Dua,MEURAH DUA,2021,0,1775,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,BANDAR DUA,2021,0,1604,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,KUTA KRUENG,2021,0,1085,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,BLANG KUTA,2021,0,964,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.03,Kecamatan Jangka Buaya,JANGKA BUYA,2021,0,2154,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.02,Kecamatan Ulim,ULIM,2021,0,2673,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.08,Kecamatan Trienggadeng,TRIENGGADENG,2021,0,2356,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.07,Kecamatan Panteraja,PANTE RAJA,2021,0,1543,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,BANDAR BARU,2021,0,3214,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,CUBO,2021,0,836,curiga kanker,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,SIMPANG 4 NYONG,2021,0,1892,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.05,Kecamatan Serbajadi,LOKOP,2021,0,1001,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.20,Kecamatan Simpang Jernih,SIMPANG JERNIH,2021,0,596,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.24,Kecamatan Peunaron,PEUNARON,2021,0,1464,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.04,Kecamatan Birem Bayeun,BIREM BAYEUN,2021,0,4385,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.08,Kecamatan Rantau Selamat,RANTAU SELAMAT,2021,0,1986,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.19,Kecamatan Sungai Raya,SUNGAI RAYA,2021,0,1882,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.07,Kecamatan Peureulak,PEUREULAK KOTA,2021,0,5708,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.17,Kecamatan Peureulak  Timur,PEUREULAK TIMUR,2021,0,2196,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.18,Kecamatan Peureulak Barat,PEUREULAK BARAT,2021,0,2397,curiga kanker,2,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.10,Kecamatan Rantau Peureulak,RANTO PEUREULAK,2021,0,3840,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.03,Kecamatan Idi Rayeuk,IDI RAYEUK,2021,0,5694,curiga kanker,2,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.16,Kecamatan Peudawa,PEUDAWA,2021,0,1802,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.15,Kecamatan Banda Alam,KEUDE GEUROBAK,2021,0,1303,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.14,Kecamatan Idi Tunong,IDI TUNONG,2021,0,1539,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.21,Kecamatan Darul Ihsan,DARUL IHSAN,2021,0,962,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.23,Kecamatan Idi Timur,IDI TIMUR,2021,0,929,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.01,Kecamatan Darul Aman,DARUL AMAN,2021,0,2970,curiga kanker,1,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.06,Kecamatan Nurussalam,NURUSSALAM,2021,0,2629,curiga kanker,2,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.22,Kecamatan Darul Falah,DARUL FALAH,2021,0,504,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.02,Kecamatan Julok,JULOK,2021,0,4078,curiga kanker,1,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.13,Kecamatan Indra Makmu,ALUE IE MIRAH,2021,0,1533,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.13,Kecamatan Indra Makmu,PERKEBUNAN INTI ALUE IE ITAM,2021,0,1201,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.11,Kecamatan Pante Bidari,MATANG PUDENG,2021,0,1591,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.11,Kecamatan Pante Bidari,PANTE BIDARI,2021,0,2137,curiga kanker,1,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.09,Kecamatan Simpang Ulim,SIMPANG ULIM,2021,0,3098,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.12,Kecamatan Madat,MADAT,2021,0,4016,curiga kanker,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.07,Kecamatan Peureulak,LEUBOK PEMPENG,2021,0,1188,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.07,Kecamatan Timang Gajah,LAMPAHAN,2021,1,3032,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.07,Kecamatan Timang Gajah,RONGA RONGA,2021,1,1404,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.01,Kecamatan Pintu Rime Gayo,BLANG RAKAL,2021,1,1028,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.01,Kecamatan Pintu Rime Gayo,SINGAH MULO,2021,1,1069,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.05,Kecamatan Bukit,SIMPANG TIGA,2021,1,4401,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.06,Kecamatan Wih Pesam,PANTE RAYA,2021,1,2972,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.06,Kecamatan Wih Pesam,SIMPANG TERITIT,2021,0,1144,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.04,Kecamatan Bandar,BANDAR,2021,1,3794,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.08,Kecamatan Bener Kelipah,BENER KELIPAH,2021,1,730,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.03,Kecamatan Syiah Utama,SAMAR KILANG,2021,0,226,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.09,Kecamatan Mesidah,MESIDAH,2021,0,551,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.02,Kecamatan Permata,BUNTUL KEUMUMU,2021,1,1706,curiga kanker,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.02,Kecamatan Permata,RAMUNG ,2021,0,1276,curiga kanker,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.01,Kecamatan Simpang Kiri,SIMPANG KIRI,2021,0,6879,curiga kanker,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.02,Kecamatan Penanggalan,PENANGGALAN,2021,0,2135,curiga kanker,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.03,Kecamatan Rundeng,RUNDING,2021,0,1599,curiga kanker,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.04,Kecamatan Sultan Daulat,SULTAN DAULAT,2021,0,780,curiga kanker,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.05,Kecamatan Longkib,LONGKIB,2021,0,3380,curiga kanker,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.02,Kecamatan Penanggalan,JONTOR,2021,0,1365,curiga kanker,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.01,Kecamatan Simpang Kiri,BAKAL BUAH,2021,0,3985,curiga kanker,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.04,Kecamatan Sultan Daulat,BATU-BATU,2021,0,614,curiga kanker,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.01,Kecamatan Johan Pahlawan,JOHAN PAHLAWAN,2021,1,4391,curiga kanker,8,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.01,Kecamatan Johan Pahlawan,SUAK RIBEE,2021,1,1317,curiga kanker,5,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.05,Kecamatan Samatiga,COT SEUMEREUNG,2021,1,2406,curiga kanker,7,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.06,Kecamatan Bubon,KUTA PADANG LAYUNG,2021,1,858,curiga kanker,2,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.07,Kecamatan Arongan Lambalek,DRIEN RAMPAK,2021,1,1331,curiga kanker,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.04,Kecamatan Woyla,KUALA BHEE,2021,1,1591,curiga kanker,3,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.10,Kecamatan Woyla Barat,PASIE MALI (WOYLA BARAT),2021,1,311,curiga kanker,1,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.11,Kecamatan Woyla Timur,TANGKEH,2021,1,544,curiga kanker,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.02,Kecamatan Kaway XVI,PEUREUMEU ,2021,1,2438,curiga kanker,5,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.09,Kecamatan Meureubo,MEUREUBO,2021,1,3280,curiga kanker,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.08,Kecamatan Pante Ceureumen,PANTE CEUREUMEN,2021,1,1273,curiga kanker,2,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.12,Kecamatan Panton Reu,MENTULANG,2021,1,717,curiga kanker,1,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.03,Kecamatan Sungai Mas,KAJEUNG,2021,1,234,curiga kanker,1,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.15,Kecamatan Sawang,SAWANG,2021,1,2889,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.15,Kecamatan Sawang,BABAH BULOH,2021,1,2635,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.16,Kecamatan Nisam,NISAM,2021,1,2785,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.26,Kecamatan Banda Baro,BANDA BARO,2021,1,1139,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.03,Kecamatan Kuta Makmur,KUTA MAKMUR,2021,1,3749,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.22,Kecamatan Simpang Kramat,SIMPANG KRAMAT,2021,1,1370,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.11,Kecamatan Syamtalira Bayu,SYAMTALIRA BAYU,2021,1,3143,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.11,Kecamatan Syamtalira Bayu,NISAM ANTARA,2021,1,1904,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.25,Kecamatan Geuredong Pase,GEUREUDONG PASE,2021,1,771,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.07,Kecamatan Meurah Mulia,MEURAH MULIA,2021,1,3002,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.05,Kecamatan Matangkuli,MATANGKULI,2021,1,2664,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.20,Kecamatan Paya Bakong,PAYA BAKONG,2021,1,2184,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.24,Kecamatan Pirak Timur,PIRAK TIMU,2021,1,1243,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.17,Kecamatan Cot Girek,COT GIREK,2021,1,2829,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.14,Kecamatan T. Jambo Aye,TANAH JAMBO AYE,2021,1,4799,curiga kanker,3,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.14,Kecamatan T. Jambo Aye,LHOK BEURINGEN,2021,1,1406,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.18,Kecamatan Langkahan,LANGKAHAN,2021,1,2036,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.18,Kecamatan Langkahan,SIMPANG TIGA,2021,1,1126,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.09,Kecamatan Seunuddon,SEUNUDON,2021,1,2399,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.09,Kecamatan Seunuddon,BLANG GEULUMPANG,2021,1,1242,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.01,Kecamatan Baktiya,BAKTIYA,2021,1,5302,curiga kanker,1,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.19,Kecamatan Baktiya Barat,SAMPOINIET,2021,1,2666,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.04,Kecamatan Lhoksukon,LHOKSUKON,2021,1,4722,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.04,Kecamatan Lhoksukon,BUKET HAGU,2021,1,2255,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.12,Kecamatan Tanah Luas,TANAH LUAS,2021,1,3577,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.21,Kecamatan Nibong,NIBONG,2021,1,1543,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.08,Kecamatan Samudera,SAMUDERA,2021,1,3813,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.10,Kecamatan Syamtalira Aron,SYAMTALIRA ARON,2021,1,2767,curiga kanker,2,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.13,Kecamatan Tanah Pasir,TANAH PASIR,2021,1,1414,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.23,Kecamatan Lapang,LAPANG,2021,1,1260,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.06,Kecamatan Muara Batu,MUARA BATU,2021,1,3914,curiga kanker,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.02,Kecamatan Dewantara,DEWANTARA,2021,1,6431,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.01,Kecamatan Samalanga,SAMALANGA,2021,0,5108,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.11,Kecamatan Simpang Mamplam,SIMPANG MAMPLAM,2021,0,4607,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.08,Kecamatan Pandrah,PANDRAH,2021,0,1403,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.02,Kecamatan Jeunieb,JEUNIEB,2021,0,4118,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.12,Kecamatan Peulimbang,PEULIMBANG,2021,0,1858,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.03,Kecamatan Peudada,PEUDADA,2021,0,4405,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.09,Kecamatan Juli,JULI ,2021,0,2403,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.09,Kecamatan Juli,JULI-2,2021,0,2958,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.04,Kecamatan Jeumpa,JEUMPA,2021,0,6072,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.13,Kecamatan Kota Juang,KOTA JUANG,2021,0,8403,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.14,Kecamatan Kuala,KUALA ,2021,0,2921,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.10,Kecamatan Jangka,JANGKA,2021,0,4687,curiga kanker,1,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,PEUSANGAN,2021,0,5161,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,PEUSANGAN SELATAN,2021,0,2385,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.15,Kecamatan Peusangan Siblah Krueng,PEUSANGAN SIBLAH KRUENG,2021,0,1903,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.06,Kecamatan Makmur,MAKMUR,2021,0,2509,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.07,Kecamatan Gandapura,GANDA PURA,2021,0,2748,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.17,Kecamatan Kuta Blang,KUTA BLANG,2021,0,3671,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,COT IE JUE,2021,0,3447,curiga kanker,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.07,Kecamatan Gandapura,MON KEULAYU,2021,0,990,curiga kanker,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,SUKAJAYA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,JABOI,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,COT BA'U,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,SUKAKARYA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,IBOIH,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,PRIA LAOT,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.03,Kecamatan Blang Mangat,BLANG MANGAT,2021,1,2830,curiga kanker,1,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.03,Kecamatan Blang Mangat,BLANG CUT,2021,1,1349,curiga kanker,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.01,Kecamatan Muara Dua,MUARA DUA,2021,1,1561,curiga kanker,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.04,Kecamatan Muara Satu,MUARA SATU,2021,1,6116,curiga kanker,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.02,Kecamatan Banda Sakti,BANDA SAKTI,2021,1,10034,curiga kanker,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.02,Kecamatan Banda Sakti,MON GEUDONG,2021,1,4088,curiga kanker,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.01,Kecamatan Muara Dua,KANDANG,2021,1,2955,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.01,Kecamatan Pulau Banyak,PULAU BANYAK,2021,0,1200,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.16,Kecamatan Pulau Banyak Barat,PULAU BANYAK BARAT,2021,0,813,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.04,Kecamatan Singkil,SINGKIL,2021,0,4986,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.10,Kecamatan Singkil Utara,SINGKIL UTARA,2021,0,2731,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.14,Kecamatan Kuala Baru,KUALA BARU,2021,0,665,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.02,Kecamatan Simpang Kanan,SIMPANG KANAN,2021,0,2995,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.06,Kecamatan Gunung Meriah,GUNUNG MERIAH,2021,0,9378,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.11,Kecamatan Danau Paris,DANAU PARIS,2021,0,2029,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.12,Kecamatan Suro Makmur,SURO,2021,0,2315,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.13,Kecamatan Singkohor,SINGKOHOR,2021,0,1626,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.09,Kecamatan Kota Baharu,KUTA BAHARU,2021,0,1751,curiga kanker,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.02,Kecamatan Simpang Kanan,KUTA TINGGI,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.01,Kecamatan Lhoong,LHOONG,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.02,Kecamatan Lhoknga,LHOKNGA,2021,0,1928,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.22,Kecamatan Leupung,LEUPUNG,2021,0,739,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.03,Kecamatan Indrapuri,INDRAPURI,2021,0,2461,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.03,Kecamatan Indrapuri,LAMPUPOK,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.16,Kecamatan Kota Cot Glie,KUTA COT GLIE,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.16,Kecamatan Kota Cot Glie,IE ALANG,2021,0,329,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.04,Kecamatan Seulimeum,SEULIMEUM,2021,0,2281,curiga kanker,1,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.04,Kecamatan Seulimeum,LAMTEUBA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.15,Kecamatan Kota Jantho,KOTA JANTHO,2021,0,1196,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.14,"Kecamatan Lembah Seulawah,",LEMBAH SEULAWAH,2021,0,1910,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.09,Kecamatan Mesjid Raya,MESJID RAYA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.12,Kecamatan Darussalam,DARUSSALAM,2021,0,3961,curiga kanker,1,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.20,Kecamatan Baitussalam,BAITUSSALAM,2021,0,3094,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.11,Kecamatan Kuta Baro,KUTA BARO,2021,0,5470,curiga kanker,1,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.05,Kecamatan Montasik,MONTASIK,2021,0,2122,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.05,Kecamatan Montasik,PIYEUNG,2021,0,552,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.23,Kecamatan Blang Bintang,BLANG BINTANG,2021,0,1657,curiga kanker,4,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.10,Kecamatan Ingin Jaya,INGIN JAYA,2021,0,5767,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.21,"Kecamatan Krueng Barona Jaya,",KRUENG BARONA JAYA,2021,0,2814,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.06,Kecamatan Sukamakmur,SUKAMAKMUR,2021,0,1266,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.17,Kecamatan Kuta Malaka,KUTA MALAKA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.18,Kecamatan Simpang Tiga,SIMPANG TIGA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.07,Kecamatan Darul Imarah,DARUL IMARAH,2021,0,5076,curiga kanker,3,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.19,Kecamatan Darul Kamal,DARUL KAMAL,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.08,Kecamatan Peukan Bada,PEUKAN BADA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.08,Kecamatan Peukan Bada,LAMPISANG,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.13,Kecamatan Pulo Aceh,PULO ACEH,2021,0,638,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.01,Kecamatan Teunom,TEUNOM,2021,1,2000,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.09,Kecamatan Pasie Raya,PASIE RAYA,2021,1,1043,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.06,Kecamatan Panga,PANGA,2021,1,1333,curiga kanker,2,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.02,Kecamatan Krueng Sabee,KRUENG SABEE,2021,1,1846,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.02,Kecamatan Krueng Sabee,CALANG,2021,1,1236,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.03,Kecamatan Setia Bhakti,LAGEUN,2021,1,683,curiga kanker,1,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.03,Kecamatan Setia Bhakti,PANTE KUYUN,2021,1,760,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.08,Kecamatan Darul Hikmah,PATEK,2021,1,1141,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.04,Kecamatan Sampoiniet,LHOK KRUET,2021,1,766,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.04,Kecamatan Sampoiniet,LIGAN,2021,1,488,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.05,Kecamatan Jaya,LAMNO,2021,1,2189,curiga kanker,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.07,Kecamatan Indra Jaya,INDRAJAYA,2021,1,1115,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.01,Kecamatan Lawe Alas,NGKERAN,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.11,Kecamatan Babul Rahmah,LAWE SUMUR,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.11,Kecamatan Babul Rahmah,UNING SIGUR-GUR,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.15,Kecamatan Tanoh Alas,TANOH ALAS,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.02,Kecamatan Lawe Sigala-Gala,LAWE SIGALA-GALA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.06,Kecamatan Babul Makmur,LAWE PERBUNGA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.06,Kecamatan Babul Makmur,GURGUR PARDOMUAN,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.10,Kecamatan Semadam,SUKA MAKMUR,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.16,Kecamatan Leuser,LEUSER,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.16,Kecamatan Leuser,NAGA TIMBUL,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.03,Kecamatan Bambel,BIAK MULI,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.09,Kecamatan Bukit Tusam,LAWE DUA,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.04,Kecamatan Babussalam,KOTA KUTACANE,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.08,Kecamatan Lawe Bulan,KUTAMBARU,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.05,Kecamatan Badar,NATAM,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.07,Kecamatan Darul Hasanah,MAMAS,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.12,Kecamatan Ketambe,JAMBUR LAK-LAK,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.13,Kecamatan Deleng Pokhkisen,DELENG POKHISEN,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.04,Kecamatan Babussalam,BABUSSALAM,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.07,Kecamatan Teupah Selatan,TEUPAH SELATAN,2021,0,1377,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.04,Kecamatan Simeulue Timur,SIMEULUE TIMUR,2021,0,2675,curiga kanker,4,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.04,Kecamatan Simeulue Timur,KUALA MAKMUR,2021,0,841,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.03,Kecamatan Teupah Barat,TEUPAH BARAT,2021,0,1182,curiga kanker,1,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.09,"Kecamatan Teupah Tengah,",TEUPAH TENGAH,2021,0,946,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.01,Kecamatan Simeulue Tengah,SIMEULUE TENGAH,2021,0,340,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.05,Kecamatan Teluk Dalam,TELUK DALAM,2021,0,631,curiga kanker,2,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.10,Kecamatan Simeulue Cut,SIMEULUE CUT,2021,0,944,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.02,Kecamatan Salang,SALANG,2021,0,1685,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.06,Kecamatan Simeulue Barat,SIMEULUE BARAT,2021,0,1025,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.06,Kecamatan Simeulue Barat,SANGGIRAN,2021,0,731,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.08,Kecamatan Alapan,ALAFAN,2021,0,721,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.05,Kecamatan Teluk Dalam,LUAN BALU,2021,0,439,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.08,Kecamatan Alapan,LAMEREM,2021,0,371,curiga kanker,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.07,Kecamatan Teupah Selatan,ALUS ALUS,2021,0,0,curiga kanker,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.01,Kecamatan Linge,LINGE,2021,1,1048,tumor atau benjolan,1,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.18,Kecamatan Atu Lintang,ATU LINTANG,2021,1,1004,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.19,Kecamatan Jagong Jeget,JAGONG,2021,1,1765,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.08,Kecamatan Bintang,BINTANG,2021,1,1535,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.17,Kecamatan Laut Tawar,LUT TAWAR,2021,1,5743,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.11,Kecamatan Kebayakan,KEBAYAKAN,2021,1,2603,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.07,Kecamatan Pegasing,PEGASING,2021,1,3275,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.20,"Kecamatan Bies,",BIES,2021,1,1175,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.03,Kecamatan Bebesen,BEBESEN,2021,1,6491,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.12,Kecamatan Kute Panang,KUTE PANANG,2021,1,1403,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.02,Kecamatan Silih Nara,SILIH NARA,2021,1,4741,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.10,Kecamatan Ketol,KETOL,2021,1,1473,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.13,Kecamatan Celala,CELALA,2021,1,1351,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.21,Kecamatan Rusip Antara,RUSIP,2021,1,1011,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.21,Kecamatan Rusip Antara,PAMAR,2021,1,322,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.01,Kecamatan Linge,KETAPANG NUSANTARA,2021,1,592,tumor atau benjolan,0,jiwa
+11,Aceh,11.04,Kabupaten Aceh Tengah,11.04.10,Kecamatan Ketol,KEKUYANG,2021,1,684,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.02,"Kecamatan Kutapanjang,",KUTA PANJANG,2021,1,1454,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.09,Kecamatan Blangjerango,BLANGJERANGO,2021,1,1137,tumor atau benjolan,3,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.01,Kecamatan Blangkejeren,BLANGKEJEREN,2021,1,4830,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.07,Kecamatan Puteri Betung,GUMPANG,2021,1,1417,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.08,Kecamatan Dabun Gelang,DABUN GELANG,2021,1,1048,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.06,"Kecamatan Blangpegayon,",CINTA MAJU,2021,1,993,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.05,Kecamatan Pining,PINTU RIME,2021,1,142,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.05,Kecamatan Pining,PINING,2021,1,291,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.03,Kecamatan Rikit Gaib,RIKIT GAIB,2021,1,701,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.11,Kecamatan Pantan Cuaca,KENYARAN,2021,1,671,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.04,Kecamatan Terangun,TERANGUN,2021,1,1478,tumor atau benjolan,0,jiwa
+11,Aceh,11.13,Kabupaten Gayo Lues,11.13.10,Kecamatan Teripe Jaya,REREBE,2021,1,896,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.03,Kecamatan Manggeng,MANGGENG,2021,0,5499,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.09,Kecamatan Lembah Sabil,LEMBAH SABIL,2021,0,2613,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.02,Kecamatan Tangan-Tangan,TANGAN-TANGAN,2021,0,1534,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.02,Kecamatan Tangan-Tangan,BINEH KRUENG,2021,0,1056,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.07,Kecamatan Setia,LHANG,2021,0,2473,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.01,Kecamatan Blang Pidie,BLANG PIDIE,2021,0,4344,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.08,"Kecamatan Jeumpa,",ALUE SUNGAI PINANG,2021,0,2176,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.04,Kecamatan Susoh,SUSOH,2021,0,8256,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.04,Kecamatan Susoh,SANGKALAN,2021,0,1511,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.05,Kecamatan Kuala Batee,KUALA BATEE,2021,0,7152,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.05,Kecamatan Kuala Batee,ALUE PISANG,2021,0,681,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.06,Kecamatan Babah Rot,BABAHROT,2021,0,2418,tumor atau benjolan,0,jiwa
+11,Aceh,11.12,Kabupaten Aceh Barat Daya,11.12.06,Kecamatan Babah Rot,IE MIRAH,2021,0,1062,tumor atau benjolan,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.01,Kecamatan Langsa Timur,UPT LANGSA TIMUR,2021,1,2200,tumor atau benjolan,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.04,Kecamatan Langsa Lama,UPT LANGSA LAMA,2021,1,4379,tumor atau benjolan,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.02,Kecamatan Langsa Barat,UPT LANGSA BARAT,2021,1,5184,tumor atau benjolan,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.05,"Kecamatan Langsa Baro,",UPT LANGSA BARO,2021,1,7310,tumor atau benjolan,0,jiwa
+11,Aceh,11.74,Kota Langsa,11.74.03,Kecamatan Langsa Kota,UPT LANGSA KOTA,2021,1,5600,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,ALUE BILIE,2021,0,2358,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,SUKA MULYA,2021,0,2760,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,LUENG KEBEU JAGAD,2021,0,1978,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.05,Kecamatan Darul Makmur,ALUE RAMBOT,2021,0,3106,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.01,Kecamatan Kuala,UJONG FATIHAH,2021,0,5513,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.07,Kecamatan Kuala Pesisir,PADANG PANYANG,2021,0,3011,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.07,Kecamatan Kuala Pesisir,PADANG RUBEK,2021,0,826,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.08,Kecamatan Tadu Raya,SIMPANG JAYA,2021,0,2506,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.08,Kecamatan Tadu Raya,KUALA TADU,2021,0,673,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.04,Kecamatan Beutong,BEUTONG,2021,0,2515,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.04,Kecamatan Beutong,BEUTONG ATEUH,2021,0,351,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.02,Kecamatan Seunagan,JEURAM,2021,0,4599,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.02,Kecamatan Seunagan,COT KUTA,2021,0,1881,tumor atau benjolan,0,jiwa
+11,Aceh,11.15,Kabupaten Nagan Raya,11.15.03,Kecamatan Seunagan Timur,UTEUN PULO,2021,0,3463,tumor atau benjolan,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.03,Kecamatan Meuraxa,MEURAXA,2021,1,2941,tumor atau benjolan,7,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.08,Kecamatan Jaya Baru,JAYA BARU,2021,1,3771,tumor atau benjolan,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.07,Kecamatan Banda Raya,BANDA RAYA,2021,1,4060,tumor atau benjolan,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.01,Kecamatan Baiturrahman,BAITURRAHMAN,2021,1,5852,tumor atau benjolan,7,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.05,Kecamatan Lueng Bata,BATOH,2021,1,3923,tumor atau benjolan,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.02,Kecamatan Kuta Alam,KUTA ALAM,2021,1,4103,tumor atau benjolan,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.02,Kecamatan Kuta Alam,LAMPULO,2021,1,3247,tumor atau benjolan,1,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.06,Kecamatan Kuta Raja,LAMPASEH KOTA,2021,1,1617,tumor atau benjolan,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.04,Kecamatan Syiah Kuala,KOPELMA DARUSSALAM,2021,1,1713,tumor atau benjolan,0,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.04,Kecamatan Syiah Kuala,JEULINGKE,2021,1,1961,tumor atau benjolan,1,jiwa
+11,Aceh,11.71,Kota Banda Aceh,11.71.09,Kecamatan Ulee Kareng,ULEE KARENG,2021,1,1821,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.07,Kecamatan Tamiang Hulu,TAMIANG HULU,2021,1,3388,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.10,Kecamatan Bandar Pusaka,BANDAR PUSAKA,2021,1,2254,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.06,Kecamatan Kejuruan Muda,KEJURUAN MUDA,2021,1,6254,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.11,Kecamatan Tenggulun,SIMPANG KIRI,2021,0,3134,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.08,Kecamatan Rantau,RANTAU,2021,1,4655,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.08,Kecamatan Rantau,SAPTA JAYA,2021,1,1850,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.05,Kecamatan Kota Kualasinpang,KUALA SIMPANG,2021,0,3573,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.04,Kecamatan Seruway,SERUWAY,2021,1,4700,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.02,Kecamatan Bendahara,SUNGAI IYU,2021,0,2369,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.02,Kecamatan Bendahara,BENDAHARA,2021,1,1308,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.09,Kecamatan Banda Mulia,BANDA MULIA,2021,0,2075,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.03,Kecamatan Karang Baru,KARANG BARU,2021,0,4938,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.12,Kecamatan Sekerak,SEKERAK,2021,1,1177,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.01,Kecamatan Manyak Payed,MANYAK PAYED,2021,0,5700,tumor atau benjolan,0,jiwa
+11,Aceh,11.16,Kabupaten Aceh Tamiang,11.16.03,Kecamatan Karang Baru,SELELEH,2021,0,2191,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.05,Kecamatan Geumpang,GEUMPANG,2021,0,916,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.27,Kecamatan Mane,MANE,2021,0,1235,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.06,Kecamatan Geulumpang  Tiga,GLUMPANG TIGA,2021,0,1205,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.06,Kecamatan Geulumpang  Tiga,TEUPIEN RAYA,2021,0,1605,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.29,Kecamatan Glumpang  Baro,GLUMPANG BARO,2021,0,1648,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,MUTIARA,2021,0,2212,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,MUTIARA BARAT,2021,0,3050,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.24,Kecamatan Mutiara Timur,UJONG RIMBA,2021,0,2912,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.21,Kecamatan Tiro/Truseb,TIRO,2021,0,1174,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.19,Kecamatan Tangse,TANGSE,2021,0,3817,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.22,Kecamatan Keumala,TITEUE,2021,0,975,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.22,Kecamatan Keumala,KEUMALA,2021,0,1468,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.17,Kecamatan Sakti,SAKTI,2021,0,3091,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.11,Kecamatan Mila,MILA,2021,0,1360,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.14,Kecamatan Padang Tiji,PADANG TIJI,2021,0,3180,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.04,Kecamatan Delima,DELIMA,2021,0,1854,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.04,Kecamatan Delima,REUBEE,2021,0,1262,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.25,Kecamatan Grong-grong,GRONG-GRONG,2021,0,1030,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.07,Kecamatan Indra Jaya,INDRAJAYA,2021,0,3470,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.15,Kecamatan Peukan Baro,PEUKAN BARO,2021,0,3031,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.08,Kecamatan Kembang Tanjong,KEMBANG TANJONG,2021,0,3160,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.18,Kecamatan Simpang Tiga,SIMPANG TIGA,2021,0,3387,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.09,Kecamatan Kota Sigli,KOTA SIGLI,2021,0,3040,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.16,Kecamatan Pidie,PIDIE,2021,0,6554,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.03,Kecamatan Batee,BATEE,2021,0,2923,tumor atau benjolan,0,jiwa
+11,Aceh,11.07,Kabupaten Pidie,11.07.12,Kecamatan Muara Tiga,MUARA TIGA,2021,0,2798,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.09,"Kecamatan Trumon,",TRUMON,2021,1,898,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.18,Kecamatan Trumon Tengah,LADANG RIMBA,2021,1,1041,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.16,Kecamatan Trumon Timur,KRUENG LUAS,2021,1,1667,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.01,Kecamatan Bakongan,BAKONGAN,2021,1,1098,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.17,Kecamatan Kota Bahagia,BUKIT GADENG,2021,1,1263,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.15,Kecamatan Bakongan Timur,SEUBADEH,2021,1,1102,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.03,Kecamatan Kluet Selatan,KLUET SELATAN,2021,1,2437,tumor atau benjolan,4,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.14,Kecamatan Kluet Timur,DURIAN KAWAN,2021,1,1191,tumor atau benjolan,36,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.14,Kecamatan Kluet Timur,KLUET TIMUR,2021,1,1273,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KLUET UTARA,2021,1,2154,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KAMPONG PAYA,2021,1,1400,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.02,Kecamatan Kluet Utara,KUALA BA'U,2021,1,1046,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.10,Kecamatan Pasi Raja,LADANG TUHA,2021,1,1644,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.13,Kecamatan Kluet Tengah,MANGGAMAT,2021,1,1164,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.08,Kecamatan Tapaktuan,TAPAKTUAN,2021,1,1934,tumor atau benjolan,2,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.08,Kecamatan Tapaktuan,LHOK BENGKUANG,2021,1,1943,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.06,Kecamatan Samadua,SAMADUA,2021,1,2618,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.07,Kecamatan Sawang,SAWANG,2021,1,2643,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.05,Kecamatan Meukek,MEUKEK,2021,1,1873,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.05,Kecamatan Meukek,DRIEN JALO,2021,1,1357,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.04,Kecamatan Labuhan Haji,LABUHAN HAJI,2021,1,1706,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.11,"Kecamatan Labuhan Haji Timur,",PEULUMAT,2021,1,2221,tumor atau benjolan,1,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.12,Kecamatan Labuhan Haji Barat,BLANGKEJEREN,2021,1,2816,tumor atau benjolan,0,jiwa
+11,Aceh,11.01,Kabupaten Aceh Selatan,11.01.10,Kecamatan Pasi Raja,UJONG PADANG RASIAN,2021,1,1427,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.01,Kecamatan Meureudu,MEUREUDU,2021,0,2991,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.05,Kecamatan Meurah Dua,MEURAH DUA,2021,0,1775,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,BANDAR DUA,2021,0,1604,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,KUTA KRUENG,2021,0,1085,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.04,Kecamatan Bandar Dua,BLANG KUTA,2021,0,964,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.03,Kecamatan Jangka Buaya,JANGKA BUYA,2021,0,2154,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.02,Kecamatan Ulim,ULIM,2021,0,2673,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.08,Kecamatan Trienggadeng,TRIENGGADENG,2021,0,2356,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.07,Kecamatan Panteraja,PANTE RAJA,2021,0,1543,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,BANDAR BARU,2021,0,3214,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,CUBO,2021,0,836,tumor atau benjolan,0,jiwa
+11,Aceh,11.18,Kabupaten Pidie Jaya,11.18.06,Kecamatan Bandar Baru,SIMPANG 4 NYONG,2021,0,1892,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.05,Kecamatan Serbajadi,LOKOP,2021,0,1001,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.20,Kecamatan Simpang Jernih,SIMPANG JERNIH,2021,0,596,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.24,Kecamatan Peunaron,PEUNARON,2021,0,1464,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.04,Kecamatan Birem Bayeun,BIREM BAYEUN,2021,0,4385,tumor atau benjolan,1,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.08,Kecamatan Rantau Selamat,RANTAU SELAMAT,2021,0,1986,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.19,Kecamatan Sungai Raya,SUNGAI RAYA,2021,0,1882,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.07,Kecamatan Peureulak,PEUREULAK KOTA,2021,0,5708,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.17,Kecamatan Peureulak  Timur,PEUREULAK TIMUR,2021,0,2196,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.18,Kecamatan Peureulak Barat,PEUREULAK BARAT,2021,0,2397,tumor atau benjolan,3,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.10,Kecamatan Rantau Peureulak,RANTO PEUREULAK,2021,0,3840,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.03,Kecamatan Idi Rayeuk,IDI RAYEUK,2021,0,5694,tumor atau benjolan,3,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.16,Kecamatan Peudawa,PEUDAWA,2021,0,1802,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.15,Kecamatan Banda Alam,KEUDE GEUROBAK,2021,0,1303,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.14,Kecamatan Idi Tunong,IDI TUNONG,2021,0,1539,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.21,Kecamatan Darul Ihsan,DARUL IHSAN,2021,0,962,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.23,Kecamatan Idi Timur,IDI TIMUR,2021,0,929,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.01,Kecamatan Darul Aman,DARUL AMAN,2021,0,2970,tumor atau benjolan,1,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.06,Kecamatan Nurussalam,NURUSSALAM,2021,0,2629,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.22,Kecamatan Darul Falah,DARUL FALAH,2021,0,504,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.02,Kecamatan Julok,JULOK,2021,0,4078,tumor atau benjolan,3,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.13,Kecamatan Indra Makmu,ALUE IE MIRAH,2021,0,1533,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.13,Kecamatan Indra Makmu,PERKEBUNAN INTI ALUE IE ITAM,2021,0,1201,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.11,Kecamatan Pante Bidari,MATANG PUDENG,2021,0,1591,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.11,Kecamatan Pante Bidari,PANTE BIDARI,2021,0,2137,tumor atau benjolan,1,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.09,Kecamatan Simpang Ulim,SIMPANG ULIM,2021,0,3098,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.12,Kecamatan Madat,MADAT,2021,0,4016,tumor atau benjolan,0,jiwa
+11,Aceh,11.03,Kabupaten Aceh Timur,11.03.07,Kecamatan Peureulak,LEUBOK PEMPENG,2021,0,1188,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.07,Kecamatan Timang Gajah,LAMPAHAN,2021,1,3032,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.07,Kecamatan Timang Gajah,RONGA RONGA,2021,1,1404,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.01,Kecamatan Pintu Rime Gayo,BLANG RAKAL,2021,1,1028,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.01,Kecamatan Pintu Rime Gayo,SINGAH MULO,2021,1,1069,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.05,Kecamatan Bukit,SIMPANG TIGA,2021,1,4401,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.06,Kecamatan Wih Pesam,PANTE RAYA,2021,1,2972,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.06,Kecamatan Wih Pesam,SIMPANG TERITIT,2021,0,1144,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.04,Kecamatan Bandar,BANDAR,2021,1,3794,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.08,Kecamatan Bener Kelipah,BENER KELIPAH,2021,1,730,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.03,Kecamatan Syiah Utama,SAMAR KILANG,2021,0,226,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.09,Kecamatan Mesidah,MESIDAH,2021,0,551,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.02,Kecamatan Permata,BUNTUL KEUMUMU,2021,1,1706,tumor atau benjolan,0,jiwa
+11,Aceh,11.17,Kabupaten Bener Meriah,11.17.02,Kecamatan Permata,RAMUNG ,2021,0,1276,tumor atau benjolan,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.01,Kecamatan Simpang Kiri,SIMPANG KIRI,2021,0,6879,tumor atau benjolan,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.02,Kecamatan Penanggalan,PENANGGALAN,2021,0,2135,tumor atau benjolan,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.03,Kecamatan Rundeng,RUNDING,2021,0,1599,tumor atau benjolan,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.04,Kecamatan Sultan Daulat,SULTAN DAULAT,2021,0,780,tumor atau benjolan,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.05,Kecamatan Longkib,LONGKIB,2021,0,3380,tumor atau benjolan,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.02,Kecamatan Penanggalan,JONTOR,2021,0,1365,tumor atau benjolan,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.01,Kecamatan Simpang Kiri,BAKAL BUAH,2021,0,3985,tumor atau benjolan,0,jiwa
+11,Aceh,11.75,Kota Subulussalam,11.75.04,Kecamatan Sultan Daulat,BATU-BATU,2021,0,614,tumor atau benjolan,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.01,Kecamatan Johan Pahlawan,JOHAN PAHLAWAN,2021,1,4391,tumor atau benjolan,5,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.01,Kecamatan Johan Pahlawan,SUAK RIBEE,2021,1,1317,tumor atau benjolan,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.05,Kecamatan Samatiga,COT SEUMEREUNG,2021,1,2406,tumor atau benjolan,3,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.06,Kecamatan Bubon,KUTA PADANG LAYUNG,2021,1,858,tumor atau benjolan,2,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.07,Kecamatan Arongan Lambalek,DRIEN RAMPAK,2021,1,1331,tumor atau benjolan,3,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.04,Kecamatan Woyla,KUALA BHEE,2021,1,1591,tumor atau benjolan,1,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.10,Kecamatan Woyla Barat,PASIE MALI (WOYLA BARAT),2021,1,311,tumor atau benjolan,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.11,Kecamatan Woyla Timur,TANGKEH,2021,1,544,tumor atau benjolan,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.02,Kecamatan Kaway XVI,PEUREUMEU ,2021,1,2438,tumor atau benjolan,4,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.09,Kecamatan Meureubo,MEUREUBO,2021,1,3280,tumor atau benjolan,0,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.08,Kecamatan Pante Ceureumen,PANTE CEUREUMEN,2021,1,1273,tumor atau benjolan,2,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.12,Kecamatan Panton Reu,MENTULANG,2021,1,717,tumor atau benjolan,1,jiwa
+11,Aceh,11.05,Kabupaten Aceh Barat,11.05.03,Kecamatan Sungai Mas,KAJEUNG,2021,1,234,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.15,Kecamatan Sawang,SAWANG,2021,1,2889,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.15,Kecamatan Sawang,BABAH BULOH,2021,1,2635,tumor atau benjolan,4,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.16,Kecamatan Nisam,NISAM,2021,1,2785,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.26,Kecamatan Banda Baro,BANDA BARO,2021,1,1139,tumor atau benjolan,2,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.03,Kecamatan Kuta Makmur,KUTA MAKMUR,2021,1,3749,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.22,Kecamatan Simpang Kramat,SIMPANG KRAMAT,2021,1,1370,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.11,Kecamatan Syamtalira Bayu,SYAMTALIRA BAYU,2021,1,3143,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.11,Kecamatan Syamtalira Bayu,NISAM ANTARA,2021,1,1904,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.25,Kecamatan Geuredong Pase,GEUREUDONG PASE,2021,1,771,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.07,Kecamatan Meurah Mulia,MEURAH MULIA,2021,1,3002,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.05,Kecamatan Matangkuli,MATANGKULI,2021,1,2664,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.20,Kecamatan Paya Bakong,PAYA BAKONG,2021,1,2184,tumor atau benjolan,5,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.24,Kecamatan Pirak Timur,PIRAK TIMU,2021,1,1243,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.17,Kecamatan Cot Girek,COT GIREK,2021,1,2829,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.14,Kecamatan T. Jambo Aye,TANAH JAMBO AYE,2021,1,4799,tumor atau benjolan,15,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.14,Kecamatan T. Jambo Aye,LHOK BEURINGEN,2021,1,1406,tumor atau benjolan,3,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.18,Kecamatan Langkahan,LANGKAHAN,2021,1,2036,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.18,Kecamatan Langkahan,SIMPANG TIGA,2021,1,1126,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.09,Kecamatan Seunuddon,SEUNUDON,2021,1,2399,tumor atau benjolan,2,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.09,Kecamatan Seunuddon,BLANG GEULUMPANG,2021,1,1242,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.01,Kecamatan Baktiya,BAKTIYA,2021,1,5302,tumor atau benjolan,8,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.19,Kecamatan Baktiya Barat,SAMPOINIET,2021,1,2666,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.04,Kecamatan Lhoksukon,LHOKSUKON,2021,1,4722,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.04,Kecamatan Lhoksukon,BUKET HAGU,2021,1,2255,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.12,Kecamatan Tanah Luas,TANAH LUAS,2021,1,3577,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.21,Kecamatan Nibong,NIBONG,2021,1,1543,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.08,Kecamatan Samudera,SAMUDERA,2021,1,3813,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.10,Kecamatan Syamtalira Aron,SYAMTALIRA ARON,2021,1,2767,tumor atau benjolan,11,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.13,Kecamatan Tanah Pasir,TANAH PASIR,2021,1,1414,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.23,Kecamatan Lapang,LAPANG,2021,1,1260,tumor atau benjolan,5,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.06,Kecamatan Muara Batu,MUARA BATU,2021,1,3914,tumor atau benjolan,0,jiwa
+11,Aceh,11.08,Kabupaten Aceh Utara,11.08.02,Kecamatan Dewantara,DEWANTARA,2021,1,6431,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.01,Kecamatan Samalanga,SAMALANGA,2021,0,5108,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.11,Kecamatan Simpang Mamplam,SIMPANG MAMPLAM,2021,0,4607,tumor atau benjolan,4,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.08,Kecamatan Pandrah,PANDRAH,2021,0,1403,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.02,Kecamatan Jeunieb,JEUNIEB,2021,0,4118,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.12,Kecamatan Peulimbang,PEULIMBANG,2021,0,1858,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.03,Kecamatan Peudada,PEUDADA,2021,0,4405,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.09,Kecamatan Juli,JULI ,2021,0,2403,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.09,Kecamatan Juli,JULI-2,2021,0,2958,tumor atau benjolan,6,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.04,Kecamatan Jeumpa,JEUMPA,2021,0,6072,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.13,Kecamatan Kota Juang,KOTA JUANG,2021,0,8403,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.14,Kecamatan Kuala,KUALA ,2021,0,2921,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.10,Kecamatan Jangka,JANGKA,2021,0,4687,tumor atau benjolan,7,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,PEUSANGAN,2021,0,5161,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,PEUSANGAN SELATAN,2021,0,2385,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.15,Kecamatan Peusangan Siblah Krueng,PEUSANGAN SIBLAH KRUENG,2021,0,1903,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.06,Kecamatan Makmur,MAKMUR,2021,0,2509,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.07,Kecamatan Gandapura,GANDA PURA,2021,0,2748,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.17,Kecamatan Kuta Blang,KUTA BLANG,2021,0,3671,tumor atau benjolan,5,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.05,Kecamatan Peusangan,COT IE JUE,2021,0,3447,tumor atau benjolan,0,jiwa
+11,Aceh,11.11,Kabupaten Bireuen,11.11.07,Kecamatan Gandapura,MON KEULAYU,2021,0,990,tumor atau benjolan,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,SUKAJAYA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,JABOI,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.02,Kecamatan Sukajaya,COT BA'U,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,SUKAKARYA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,IBOIH,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.72,Kota Sabang,11.72.01,Kecamatan Sukakarya,PRIA LAOT,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.03,Kecamatan Blang Mangat,BLANG MANGAT,2021,1,2830,tumor atau benjolan,8,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.03,Kecamatan Blang Mangat,BLANG CUT,2021,1,1349,tumor atau benjolan,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.01,Kecamatan Muara Dua,MUARA DUA,2021,1,1561,tumor atau benjolan,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.04,Kecamatan Muara Satu,MUARA SATU,2021,1,6116,tumor atau benjolan,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.02,Kecamatan Banda Sakti,BANDA SAKTI,2021,1,10034,tumor atau benjolan,0,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.02,Kecamatan Banda Sakti,MON GEUDONG,2021,1,4088,tumor atau benjolan,2,jiwa
+11,Aceh,11.73,Kota Lhokseumawe,11.73.01,Kecamatan Muara Dua,KANDANG,2021,1,2955,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.01,Kecamatan Pulau Banyak,PULAU BANYAK,2021,0,1200,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.16,Kecamatan Pulau Banyak Barat,PULAU BANYAK BARAT,2021,0,813,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.04,Kecamatan Singkil,SINGKIL,2021,0,4986,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.10,Kecamatan Singkil Utara,SINGKIL UTARA,2021,0,2731,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.14,Kecamatan Kuala Baru,KUALA BARU,2021,0,665,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.02,Kecamatan Simpang Kanan,SIMPANG KANAN,2021,0,2995,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.06,Kecamatan Gunung Meriah,GUNUNG MERIAH,2021,0,9378,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.11,Kecamatan Danau Paris,DANAU PARIS,2021,0,2029,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.12,Kecamatan Suro Makmur,SURO,2021,0,2315,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.13,Kecamatan Singkohor,SINGKOHOR,2021,0,1626,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.09,Kecamatan Kota Baharu,KUTA BAHARU,2021,0,1751,tumor atau benjolan,0,jiwa
+11,Aceh,11.1,Kabupaten Aceh Singkil,11.10.02,Kecamatan Simpang Kanan,KUTA TINGGI,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.01,Kecamatan Lhoong,LHOONG,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.02,Kecamatan Lhoknga,LHOKNGA,2021,0,1928,tumor atau benjolan,11,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.22,Kecamatan Leupung,LEUPUNG,2021,0,739,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.03,Kecamatan Indrapuri,INDRAPURI,2021,0,2461,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.03,Kecamatan Indrapuri,LAMPUPOK,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.16,Kecamatan Kota Cot Glie,KUTA COT GLIE,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.16,Kecamatan Kota Cot Glie,IE ALANG,2021,0,329,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.04,Kecamatan Seulimeum,SEULIMEUM,2021,0,2281,tumor atau benjolan,4,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.04,Kecamatan Seulimeum,LAMTEUBA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.15,Kecamatan Kota Jantho,KOTA JANTHO,2021,0,1196,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.14,"Kecamatan Lembah Seulawah,",LEMBAH SEULAWAH,2021,0,1910,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.09,Kecamatan Mesjid Raya,MESJID RAYA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.12,Kecamatan Darussalam,DARUSSALAM,2021,0,3961,tumor atau benjolan,12,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.20,Kecamatan Baitussalam,BAITUSSALAM,2021,0,3094,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.11,Kecamatan Kuta Baro,KUTA BARO,2021,0,5470,tumor atau benjolan,8,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.05,Kecamatan Montasik,MONTASIK,2021,0,2122,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.05,Kecamatan Montasik,PIYEUNG,2021,0,552,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.23,Kecamatan Blang Bintang,BLANG BINTANG,2021,0,1657,tumor atau benjolan,4,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.10,Kecamatan Ingin Jaya,INGIN JAYA,2021,0,5767,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.21,"Kecamatan Krueng Barona Jaya,",KRUENG BARONA JAYA,2021,0,2814,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.06,Kecamatan Sukamakmur,SUKAMAKMUR,2021,0,1266,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.17,Kecamatan Kuta Malaka,KUTA MALAKA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.18,Kecamatan Simpang Tiga,SIMPANG TIGA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.07,Kecamatan Darul Imarah,DARUL IMARAH,2021,0,5076,tumor atau benjolan,2,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.19,Kecamatan Darul Kamal,DARUL KAMAL,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.08,Kecamatan Peukan Bada,PEUKAN BADA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.08,Kecamatan Peukan Bada,LAMPISANG,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.06,Kabupaten Aceh Besar,11.06.13,Kecamatan Pulo Aceh,PULO ACEH,2021,0,638,tumor atau benjolan,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.01,Kecamatan Teunom,TEUNOM,2021,1,2000,tumor atau benjolan,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.09,Kecamatan Pasie Raya,PASIE RAYA,2021,1,1043,tumor atau benjolan,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.06,Kecamatan Panga,PANGA,2021,1,1333,tumor atau benjolan,1,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.02,Kecamatan Krueng Sabee,KRUENG SABEE,2021,1,1846,tumor atau benjolan,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.02,Kecamatan Krueng Sabee,CALANG,2021,1,1236,tumor atau benjolan,1,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.03,Kecamatan Setia Bhakti,LAGEUN,2021,1,683,tumor atau benjolan,1,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.03,Kecamatan Setia Bhakti,PANTE KUYUN,2021,1,760,tumor atau benjolan,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.08,Kecamatan Darul Hikmah,PATEK,2021,1,1141,tumor atau benjolan,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.04,Kecamatan Sampoiniet,LHOK KRUET,2021,1,766,tumor atau benjolan,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.04,Kecamatan Sampoiniet,LIGAN,2021,1,488,tumor atau benjolan,1,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.05,Kecamatan Jaya,LAMNO,2021,1,2189,tumor atau benjolan,0,jiwa
+11,Aceh,11.14,Kabupaten Aceh Jaya,11.14.07,Kecamatan Indra Jaya,INDRAJAYA,2021,1,1115,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.01,Kecamatan Lawe Alas,NGKERAN,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.11,Kecamatan Babul Rahmah,LAWE SUMUR,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.11,Kecamatan Babul Rahmah,UNING SIGUR-GUR,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.15,Kecamatan Tanoh Alas,TANOH ALAS,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.02,Kecamatan Lawe Sigala-Gala,LAWE SIGALA-GALA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.06,Kecamatan Babul Makmur,LAWE PERBUNGA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.06,Kecamatan Babul Makmur,GURGUR PARDOMUAN,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.10,Kecamatan Semadam,SUKA MAKMUR,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.16,Kecamatan Leuser,LEUSER,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.16,Kecamatan Leuser,NAGA TIMBUL,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.03,Kecamatan Bambel,BIAK MULI,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.09,Kecamatan Bukit Tusam,LAWE DUA,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.04,Kecamatan Babussalam,KOTA KUTACANE,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.08,Kecamatan Lawe Bulan,KUTAMBARU,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.05,Kecamatan Badar,NATAM,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.07,Kecamatan Darul Hasanah,MAMAS,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.12,Kecamatan Ketambe,JAMBUR LAK-LAK,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.13,Kecamatan Deleng Pokhkisen,DELENG POKHISEN,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.02,Kabupaten Aceh Tenggara,11.02.04,Kecamatan Babussalam,BABUSSALAM,2021,0,0,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.07,Kecamatan Teupah Selatan,TEUPAH SELATAN,2021,0,1377,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.04,Kecamatan Simeulue Timur,SIMEULUE TIMUR,2021,0,2675,tumor atau benjolan,5,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.04,Kecamatan Simeulue Timur,KUALA MAKMUR,2021,0,841,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.03,Kecamatan Teupah Barat,TEUPAH BARAT,2021,0,1182,tumor atau benjolan,1,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.09,"Kecamatan Teupah Tengah,",TEUPAH TENGAH,2021,0,946,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.01,Kecamatan Simeulue Tengah,SIMEULUE TENGAH,2021,0,340,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.05,Kecamatan Teluk Dalam,TELUK DALAM,2021,0,631,tumor atau benjolan,2,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.10,Kecamatan Simeulue Cut,SIMEULUE CUT,2021,0,944,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.02,Kecamatan Salang,SALANG,2021,0,1685,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.06,Kecamatan Simeulue Barat,SIMEULUE BARAT,2021,0,1025,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.06,Kecamatan Simeulue Barat,SANGGIRAN,2021,0,731,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.08,Kecamatan Alapan,ALAFAN,2021,0,721,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.05,Kecamatan Teluk Dalam,LUAN BALU,2021,0,439,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.08,Kecamatan Alapan,LAMEREM,2021,0,371,tumor atau benjolan,0,jiwa
+11,Aceh,11.09,Kabupaten Simeulue,11.09.07,Kecamatan Teupah Selatan,ALUS ALUS,2021,0,0,tumor atau benjolan,0,jiwa
