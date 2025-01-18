@@ -1,0 +1,45 @@
+Minggu 8-9: Analisis Hasil Eksperimen
+Pada tahap ini, fokus utama adalah menganalisis hasil eksperimen yang dilakukan pada minggu sebelumnya, termasuk:
+1.Analisis Akurasi Model: Mengukur akurasi model menggunakan data uji (testing set) untuk mengetahui seberapa baik model dapat memprediksi.
+Akurasi ini dihitung dengan membandingkan hasil prediksi (y_pred) dengan data sebenarnya (y_test).
+2.Laporan Klasifikasi: Menghasilkan laporan klasifikasi yang berisi metrik evaluasi seperti:
+-Precision: Kemampuan model untuk mengidentifikasi kelas positif dengan benar.
+-Recall: Seberapa banyak kelas positif yang berhasil ditemukan oleh model.
+-F1-Score: Harmonik antara precision dan recall.
+Semua metrik ini dirangkum dalam bentuk tabel.
+3.Analisis Fitur Penting (Feature Importance):
+-Menggunakan atribut feature_importances_ dari model Decision Tree untuk mengetahui fitur mana yang paling berpengaruh dalam prediksi.
+
+Minggu 10-11: Penyusunan Laporan Sementara
+Pada minggu ini, laporan sementara disusun berdasarkan hasil analisis:
+1.Isi Laporan:
+-Dataset bersih: Menampilkan data yang telah diproses pada tahap sebelumnya.
+-Laporan klasifikasi: Metrik evaluasi model.
+-Analisis fitur penting: Menunjukkan fitur mana yang memiliki pengaruh besar terhadap prediksi.
+2.Format Laporan:
+-Semua hasil disimpan dalam file Excel dengan beberapa sheet:
+Sheet 1: Dataset bersih.
+Sheet 2: Laporan klasifikasi.
+
+Minggu 12-13: Revisi dan Penyempurnaan Laporan
+Setelah laporan sementara disusun, langkah berikutnya adalah:
+1.Revisi:
+-Memastikan semua informasi sudah benar dan relevan.
+-Menambahkan interpretasi mendalam dari hasil analisis fitur penting dan laporan klasifikasi.
+-Jika ada data atau model yang perlu diperbaiki, lakukan pada tahap ini.
+2.Penyempurnaan:
+-Memberikan kesimpulan yang jelas berdasarkan data dan hasil analisis.
+-Menghubungkan hasil dengan tujuan awal proyek, yaitu membantu deteksi dini kanker secara lebih efektif.
+
+Minggu 14: Finalisasi dan Peninjauan Akhir
+Pada minggu terakhir, dilakukan finalisasi laporan dengan langkah berikut:
+1.Peninjauan Akhir:
+-Memastikan semua elemen laporan sudah lengkap, termasuk:
+-Deskripsi dataset.
+-Analisis hasil eksperimen.
+-Kesimpulan dan rekomendasi.
+-Memastikan file Excel tersimpan dengan benar.
+2.Dokumentasi Tambahan:
+-Jika ada visualisasi atau tambahan dokumen lain yang diperlukan, tambahkan di tahap ini.
+3.Persiapan untuk Pengumpulan:
+-Menyusun semua file yang diperlukan (kode Python, file Excel, dll.) ke dalam satu folder proyek.
