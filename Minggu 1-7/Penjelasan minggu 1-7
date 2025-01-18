@@ -1,0 +1,49 @@
+Minggu 1: Membuat Dataset dan Memuat Data
+Membuat dataset menggunakan informasi di file Python.
+Menyimpan dataset sebagai file CSV agar dapat digunakan lebih lanjut.
+
+Minggu 2: Pembersihan Data
+Mengecek apakah ada data kosong atau duplikat.
+Memastikan dataset siap untuk eksplorasi lebih lanjut.
+
+Minggu 3: Explorasi Data Awal
+Melihat deskripsi statistik dataset.
+Menampilkan data dalam bentuk tabel.
+
+Minggu 4: Visualisasi Data
+Membuat grafik bar untuk menunjukkan distribusi jenis kanker.
+Membuat grafik lingkaran untuk melihat proporsi populasi yang disarankan.
+
+Minggu 5: Encoding Fitur Kategorikal
+Mengonversi kolom kategorikal ke bentuk numerik menggunakan label encoding.
+
+Minggu 6: Pembagian Dataset
+Jika diperlukan, membagi data untuk tujuan pelatihan model.
+
+Minggu 7: Pemodelan Awal
+Membuat model prediksi sederhana, seperti klasifikasi jenis kanker berdasarkan metode deteksi (opsional).
+
+
+
+PENJELASAN
+Minggu 1: Memuat Dataset
+Dataset dimuat dari file CSV, lalu dicek struktur dan informasi awalnya.
+
+Minggu 2: Pembersihan Data
+Missing values diatasi dengan imputasi (median) dan data duplikat dihapus.
+
+Minggu 3: Explorasi Data Awal
+Deskripsi statistik dan distribusi data dianalisis untuk memahami pola dataset.
+
+Minggu 4: Visualisasi Data
+Contoh visualisasi berupa grafik batang untuk menunjukkan cakupan deteksi dini per wilayah.
+
+Minggu 5: Encoding Fitur Kategorikal
+Fitur kategorikal seperti metode deteksi dikonversi menjadi numerik menggunakan label encoding.
+
+Minggu 6: Pembagian Dataset
+Dataset dibagi menjadi data latih dan data uji untuk melatih model.
+
+Minggu 7: Pemodelan Awal
+Model Decision Tree digunakan untuk prediksi, lalu evaluasi awal dilakukan menggunakan akurasi dan laporan klasifikasi.
+
